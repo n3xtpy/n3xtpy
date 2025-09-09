@@ -4,13 +4,13 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1269619923425165396) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
-### 🛠️ Projects
+### 🛠️ - Projects
 - I am currently working on a discord developing community
 - Coding some cool discord.py bots and systems
 - Currently designing my own website
 ---
 
-### 🧰 Languages and Tools
+### 🧰 - Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -24,3 +24,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios11/512/FFFFFF/github.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/framer_logo_icon_169149.png" />
 <br />
+
+---
+### 🧠 - Featured Projects:
+- Coming soon
