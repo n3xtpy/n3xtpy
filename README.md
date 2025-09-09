@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Leon</h1>
-<h3 align="left">A 16 Year old discord.py developer and agency owner with over 5 years of coding experience</h3>
+<h3 align="left">A 16 Year old discord.py developer with over 5 years of coding experience</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1269619923425165396) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
