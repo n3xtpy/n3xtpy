@@ -19,4 +19,3 @@
 
 <br>
 
-<sub>Art auto-refreshes daily via <a href=".github/workflows/update-profile-art.yml">GitHub Actions</a>.</sub>
