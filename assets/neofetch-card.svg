@@ -1,0 +1,93 @@
+<svg viewBox="0 0 620 246" xmlns="http://www.w3.org/2000/svg" width="620" height="246">
+  <style>
+    text { font-family: 'Fira Code', Consolas, monospace; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="0" y="0" width="620" height="246" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="36" fill="#58a6ff" font-size="14" font-family="monospace" xml:space="preserve"><tspan x="20" dy="16"> ##      ##</tspan><tspan x="20" dy="16"> ###     ##</tspan><tspan x="20" dy="16"> ####    ##</tspan><tspan x="20" dy="16"> ## ##   ##</tspan><tspan x="20" dy="16"> ##  ##  ##</tspan><tspan x="20" dy="16"> ##   ## ##</tspan><tspan x="20" dy="16"> ##    ####</tspan><tspan x="20" dy="16"> ##     ###</tspan><tspan x="20" dy="16"> ##      ##</tspan></text>
+  
+        <text x="182" y="40" fill="#58a6ff" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="700" clip-path="url(#reveal0)">
+          n3xtpy@github
+        </text>
+        <clipPath id="reveal0">
+          <rect x="182" y="26" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="0.00s" dur="0.39s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+        <text x="182" y="62" fill="#8b949e" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="400" clip-path="url(#reveal1)">
+          -------------
+        </text>
+        <clipPath id="reveal1">
+          <rect x="182" y="48" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="0.44s" dur="0.39s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+        <text x="182" y="84" fill="#c9d1d9" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="400" clip-path="url(#reveal2)">
+          OS: GitHub
+        </text>
+        <clipPath id="reveal2">
+          <rect x="182" y="70" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="0.88s" dur="0.30s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+        <text x="182" y="106" fill="#c9d1d9" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="400" clip-path="url(#reveal3)">
+          Uptime: since 2025
+        </text>
+        <clipPath id="reveal3">
+          <rect x="182" y="92" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="1.23s" dur="0.54s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+        <text x="182" y="128" fill="#c9d1d9" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="400" clip-path="url(#reveal4)">
+          Repos: 2
+        </text>
+        <clipPath id="reveal4">
+          <rect x="182" y="114" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="1.82s" dur="0.30s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+        <text x="182" y="150" fill="#c9d1d9" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="400" clip-path="url(#reveal5)">
+          Stars: 0
+        </text>
+        <clipPath id="reveal5">
+          <rect x="182" y="136" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="2.17s" dur="0.30s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+        <text x="182" y="172" fill="#c9d1d9" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="400" clip-path="url(#reveal6)">
+          Followers: 0  Following: 5
+        </text>
+        <clipPath id="reveal6">
+          <rect x="182" y="158" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="2.52s" dur="0.78s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+        <text x="182" y="194" fill="#c9d1d9" font-family="'Fira Code', Consolas, monospace"
+              font-size="14" font-weight="400" clip-path="url(#reveal7)">
+          Top Lang: JavaScript
+        </text>
+        <clipPath id="reveal7">
+          <rect x="182" y="180" width="0" height="20">
+            <animate attributeName="width" from="0" to="500" begin="3.35s" dur="0.60s"
+                      fill="freeze" calcMode="linear"/>
+          </rect>
+        </clipPath>
+  <rect class="cursor" x="182" y="204" width="8" height="14" fill="#c9d1d9">
+    <animate attributeName="opacity" begin="4.00s" from="0" to="1" dur="0.1s" fill="freeze"/>
+  </rect>
+</svg>

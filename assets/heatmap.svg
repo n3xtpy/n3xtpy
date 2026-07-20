@@ -1,0 +1,1468 @@
+<svg viewBox="0 0 745 101" xmlns="http://www.w3.org/2000/svg" width="745" height="101">
+  <rect x="0" y="0" width="745" height="101" fill="#0d1117"/>
+  
+      <rect x="3" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-07-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.000s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="3" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-07-27: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.003s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="3" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-03: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.007s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="3" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-08-10: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.010s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="3" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-08-17: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.013s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="3" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-24: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.016s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="3" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-31: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.020s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="17" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-07: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.023s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="17" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-14: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.026s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="17" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-21: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.030s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="17" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-28: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.033s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="17" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-05: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="17" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-12: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.039s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="17" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-19: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.043s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="31" y="3" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-10-26: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.046s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="31" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-02: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.049s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="31" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-09: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.052s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="31" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-16: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.056s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="31" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-23: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.059s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="31" y="73" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-30: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.062s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="31" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-07: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="45" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-14: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.069s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="45" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-21: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="45" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-28: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.075s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="45" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-01-04: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.079s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="45" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-11: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.082s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="45" y="73" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-01-18: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.085s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="45" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-01-25: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.089s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="59" y="3" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-01: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.092s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="59" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-08: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.095s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="59" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-02-15: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.098s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="59" y="45" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-22: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="59" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-01: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.105s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="59" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-03-08: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="59" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-15: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.111s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="73" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-22: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.115s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="73" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-29: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.118s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="73" y="31" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-04-05: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.121s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="73" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-04-12: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.125s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="73" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-04-19: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.128s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="73" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-26: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.131s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="73" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-03: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.134s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="87" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-05-10: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="87" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-17: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.141s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="87" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-24: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="87" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-31: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.148s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="87" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-07: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.151s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="87" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-06-14: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.154s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="87" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-21: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.157s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="101" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-28: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.161s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="101" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-05: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.164s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="101" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-12: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.167s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="101" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-19: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.170s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="101" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-07-21: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="101" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-07-28: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.177s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="101" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-04: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="115" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-11: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.184s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="115" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-08-18: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.187s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="115" y="31" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-08-25: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.190s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="115" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-01: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.193s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="115" y="59" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2025-09-08: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.197s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="115" y="73" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-15: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.200s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="115" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-22: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.203s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="129" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-29: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.207s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="129" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-06: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="129" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-13: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.213s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="129" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-10-20: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="129" y="59" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-10-27: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.220s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="129" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-03: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.223s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="129" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-10: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.226s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="143" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-17: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.230s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="143" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-24: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.233s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="143" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-01: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.236s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="143" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-08: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.239s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="143" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-15: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.243s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="143" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-22: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="143" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-29: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.249s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="157" y="3" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-01-05: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="157" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-01-12: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.256s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="157" y="31" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-01-19: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.259s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="157" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-26: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.262s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="157" y="59" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-02-02: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.266s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="157" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-09: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.269s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="157" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-16: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.272s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="171" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-02-23: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.275s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="171" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-03-02: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.279s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="171" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-03-09: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="171" y="45" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-03-16: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.285s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="171" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-23: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.289s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="171" y="73" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-03-30: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.292s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="171" y="87" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-04-06: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.295s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="185" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-13: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.298s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="185" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.302s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="185" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-27: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.305s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="185" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-04: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.308s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="185" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-11: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.311s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="185" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-18: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.315s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="185" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-25: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.318s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="199" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-06-01: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.321s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="199" y="17" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-06-08: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.325s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="199" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-15: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.328s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="199" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-22: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.331s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="199" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-06-29: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.334s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="199" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-07-06: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.338s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="199" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-07-13: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.341s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="213" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.344s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="213" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-07-22: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.348s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="213" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-07-29: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.351s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="213" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-05: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.354s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="213" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-12: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.357s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="213" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-19: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.361s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="213" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-26: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.364s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="227" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-02: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.367s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="227" y="17" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2025-09-09: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.370s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="227" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-16: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.374s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="227" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-23: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.377s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="227" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-30: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.380s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="227" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-07: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.384s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="227" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-14: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.387s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="241" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-21: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.390s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="241" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-28: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.393s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="241" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-04: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.397s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="241" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-11: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.400s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="241" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-18: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.403s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="241" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-25: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.407s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="241" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-12-02: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.410s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="255" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-09: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.413s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="255" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-16: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.416s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="255" y="31" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-12-23: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.420s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="255" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-30: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.423s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="255" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-06: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.426s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="255" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-01-13: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.430s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="255" y="87" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-01-20: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.433s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="269" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-01-27: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.436s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="269" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-03: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.439s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="269" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-10: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.443s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="269" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-02-17: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.446s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="269" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-24: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.449s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="269" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-03-03: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.452s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="269" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-10: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.456s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="283" y="3" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-03-17: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.459s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="283" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-03-24: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.462s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="283" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-31: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.466s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="283" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-07: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.469s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="283" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-04-14: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.472s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="283" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-04-21: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.475s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="283" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-28: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.479s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="297" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-05: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.482s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="297" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-12: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.485s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="297" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-19: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.489s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="297" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-26: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.492s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="297" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-02: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.495s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="297" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-06-09: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.498s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="297" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-16: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.502s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="311" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-23: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.505s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="311" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-06-30: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.508s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="311" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-07: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.511s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="311" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-14: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.515s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="311" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-07-23: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.518s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="311" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-07-30: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.521s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="311" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-06: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.525s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="325" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-13: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.528s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="325" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.531s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="325" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-27: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.534s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="325" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-03: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.538s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="325" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-10: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.541s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="325" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-17: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.544s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="325" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-24: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.548s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="339" y="3" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-10-01: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.551s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="339" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-08: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.554s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="339" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-15: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.557s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="339" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-22: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.561s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="339" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-29: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.564s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="339" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-05: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.567s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="339" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-12: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.570s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="353" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-19: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.574s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="353" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-26: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.577s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="353" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-03: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.580s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="353" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-10: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.584s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="353" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-17: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.587s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="353" y="73" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-24: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.590s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="353" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-31: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.593s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="367" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-01-07: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.597s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="367" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-01-14: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.600s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="367" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-21: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.603s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="367" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-01-28: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.607s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="367" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-02-04: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.610s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="367" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-11: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.613s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="367" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-18: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.616s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="381" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-25: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.620s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="381" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-04: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.623s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="381" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-03-11: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.626s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="381" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-03-18: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.630s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="381" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-03-25: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.633s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="381" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-04-01: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.636s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="381" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-04-08: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.639s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="395" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-15: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.643s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="395" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-22: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.646s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="395" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-04-29: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.649s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="395" y="45" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-05-06: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.652s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="395" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-13: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.656s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="395" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-05-20: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.659s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="395" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-27: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.662s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="409" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-03: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.666s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="409" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-10: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.669s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="409" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-17: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.672s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="409" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-24: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.675s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="409" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-01: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.679s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="409" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-08: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.682s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="409" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-15: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.685s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="423" y="3" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-07-24: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.689s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="423" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-07-31: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.692s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="423" y="31" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-08-07: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.695s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="423" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-08-14: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.698s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="423" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-08-21: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.702s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="423" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-28: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.705s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="423" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-04: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.708s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="437" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-11: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.711s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="437" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-18: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.715s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="437" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-25: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.718s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="437" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-02: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.721s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="437" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-09: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.725s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="437" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-16: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.728s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="437" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-23: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.731s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="451" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-10-30: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.734s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="451" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-06: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.738s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="451" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-11-13: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.741s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="451" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.744s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="451" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-27: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.748s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="451" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-04: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.751s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="451" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-11: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.754s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="465" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-18: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.757s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="465" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-25: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.761s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="465" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-01-01: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.764s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="465" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-01-08: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.767s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="465" y="59" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-01-15: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.770s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="465" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-22: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.774s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="465" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-01-29: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.777s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="479" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-02-05: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.780s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="479" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-12: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.784s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="479" y="31" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-19: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.787s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="479" y="45" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-26: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.790s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="479" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-03-05: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.793s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="479" y="73" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-03-12: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.797s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="479" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-03-19: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.800s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="493" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-26: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.803s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="493" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-02: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.807s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="493" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-09: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.810s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="493" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-04-16: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.813s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="493" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-04-23: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.816s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="493" y="73" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-04-30: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.820s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="493" y="87" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-05-07: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.823s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="507" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-14: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.826s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="507" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-21: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.830s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="507" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-28: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.833s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="507" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-04: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.836s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="507" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-11: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.839s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="507" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-18: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.843s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="507" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-25: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.846s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="521" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-02: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.849s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="521" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-09: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.852s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="521" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-07-16: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.856s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="521" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-07-25: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.859s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="521" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-01: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.862s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="521" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-08-08: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.866s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="521" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-15: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.869s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="535" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-08-22: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.872s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="535" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-08-29: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.875s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="535" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-05: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.879s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="535" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-12: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.882s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="535" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-09-19: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.885s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="535" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-26: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.889s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="535" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-10-03: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.892s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="549" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-10: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.895s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="549" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-10-17: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.898s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="549" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-24: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.902s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="549" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-10-31: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.905s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="549" y="59" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-11-07: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.908s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="549" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-14: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.911s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="549" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-11-21: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.915s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="563" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-28: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.918s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="563" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-05: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.921s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="563" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-12-12: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.925s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="563" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-12-19: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.928s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="563" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-26: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.931s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="563" y="73" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-01-02: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.934s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="563" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-09: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.938s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="577" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-16: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.941s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="577" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-01-23: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.944s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="577" y="31" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-01-30: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.948s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="577" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-02-06: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.951s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="577" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-02-13: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.954s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="577" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-02-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.957s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="577" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-02-27: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.961s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="591" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-03-06: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.964s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="591" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-03-13: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.967s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="591" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.970s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="591" y="45" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-03-27: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.974s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="591" y="59" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-04-03: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.977s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="591" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-04-10: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.980s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="591" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-17: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.984s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="605" y="3" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-04-24: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.987s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="605" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-01: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.990s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="605" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-08: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.993s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="605" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-15: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="0.997s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="605" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-22: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.000s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="605" y="73" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-29: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.003s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="605" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-05: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.007s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="619" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-12: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.010s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="619" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-19: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.013s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="619" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-26: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.016s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="619" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-07-03: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.020s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="619" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-10: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.023s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="619" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-17: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.026s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="619" y="87" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-07-26: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.030s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="633" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-02: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.033s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="633" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-08-09: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.036s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="633" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-08-16: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.039s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="633" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-08-23: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.043s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="633" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-08-30: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.046s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="633" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-06: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.049s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="633" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-09-13: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.052s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="647" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-09-20: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.056s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="647" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-09-27: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.059s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="647" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-04: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.062s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="647" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-10-11: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.066s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="647" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2025-10-18: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.069s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="647" y="73" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-10-25: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.072s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="647" y="87" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-01: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.075s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="661" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-08: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.079s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="661" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-11-15: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.082s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="661" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-22: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.085s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="661" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2025-11-29: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.089s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="661" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-06: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.092s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="661" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2025-12-13: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.095s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="661" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-12-20: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.098s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="675" y="3" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2025-12-27: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.102s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="675" y="17" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-01-03: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.105s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="675" y="31" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-01-10: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.108s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="675" y="45" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-01-17: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.111s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="675" y="59" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+        <title>2026-01-24: level 4</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.115s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="675" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-01-31: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.118s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="675" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-02-07: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.121s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="689" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-14: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.125s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="689" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-21: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.128s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="689" y="31" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-02-28: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.131s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="689" y="45" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-03-07: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.134s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="689" y="59" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-03-14: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.138s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="689" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-03-21: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.141s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="689" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-03-28: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.144s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="703" y="3" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-04-04: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.148s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="703" y="17" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-04-11: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.151s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="703" y="31" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-18: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.154s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="703" y="45" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-04-25: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.157s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="703" y="59" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-02: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.161s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="703" y="73" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-09: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.164s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="703" y="87" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-05-16: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.167s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="717" y="3" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-05-23: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.170s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="717" y="17" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-05-30: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.174s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="717" y="31" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-06: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.177s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="717" y="45" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-06-13: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.180s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="717" y="59" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-06-20: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.184s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="717" y="73" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+        <title>2026-06-27: level 3</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.187s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="717" y="87" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+        <title>2026-07-04: level 0</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.190s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="731" y="3" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+        <title>2026-07-11: level 2</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.193s" dur="0.4s" fill="freeze"/>
+      </rect>
+      <rect x="731" y="17" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+        <title>2026-07-18: level 1</title>
+        <animate attributeName="opacity" from="0" to="1" begin="1.197s" dur="0.4s" fill="freeze"/>
+      </rect>
+</svg>
