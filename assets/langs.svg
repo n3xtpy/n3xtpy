@@ -33,13 +33,13 @@
   <g clip-path="url(#barClip)">
     
     <rect x="26.00" y="74" width="0" height="20" fill="#3776ab">
-      <title>Python — 66.7%</title>
-      <animate attributeName="width" from="0" to="552.31" begin="0.35s"
+      <title>Python — 89.4%</title>
+      <animate attributeName="width" from="0" to="740.07" begin="0.35s"
                dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
-    <rect x="578.31" y="74" width="0" height="20" fill="#f1e05a">
-      <title>JavaScript — 33.3%</title>
-      <animate attributeName="width" from="0" to="275.69" begin="0.51s"
+    <rect x="766.07" y="74" width="0" height="20" fill="#f1e05a">
+      <title>JavaScript — 10.6%</title>
+      <animate attributeName="width" from="0" to="87.93" begin="0.51s"
                dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <rect x="-140" y="74" width="140" height="20" fill="url(#sheen)" pointer-events="none">
@@ -54,13 +54,13 @@
       <animate attributeName="opacity" values="0;1" begin="0.80s" dur="0.45s" fill="freeze"/>
       <circle cx="32.0" cy="128" r="5" fill="#3776ab"/>
       <text x="44.0" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#c9d1d9">Python</text>
-      <text x="96.5" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b949e">66.7%</text>
+      <text x="96.5" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b949e">89.4%</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" values="0;1" begin="0.96s" dur="0.45s" fill="freeze"/>
       <circle cx="174.0" cy="128" r="5" fill="#f1e05a"/>
       <text x="186.0" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#c9d1d9">JavaScript</text>
-      <text x="268.5" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b949e">33.3%</text>
+      <text x="268.5" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b949e">10.6%</text>
     </g>
 
   <rect x="0.5" y="0.5" width="879" height="161" rx="12"
