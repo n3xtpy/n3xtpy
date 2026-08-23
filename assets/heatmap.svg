@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 812 224"
      width="812" height="224" role="img" aria-label="contribution heatmap">
-  <title>1,561 contributions — 1 day current streak, 20 longest</title>
+  <title>1,561 contributions — 0 day current streak, 20 longest</title>
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0.000" stop-color="#39d353"/><stop offset="0.500" stop-color="#58a6ff"/><stop offset="1.000" stop-color="#bc8cff"/>
@@ -29,1492 +29,1468 @@
   <text x="406.0" y="22.0" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
         font-size="12" text-anchor="middle">contributions — last 12 months</text>
 
-  <text x="50" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Aug</text><text x="92" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Sep</text><text x="148" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Oct</text><text x="204" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Nov</text><text x="274" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Dec</text><text x="330" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Jan</text><text x="386" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Feb</text><text x="442" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Mar</text><text x="512" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Apr</text><text x="568" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">May</text><text x="638" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Jun</text><text x="694" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Jul</text><text x="750" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Aug</text>
+  <text x="50" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Aug</text><text x="134" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Oct</text><text x="190" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Nov</text><text x="260" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Dec</text><text x="316" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Jan</text><text x="372" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Feb</text><text x="428" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Mar</text><text x="498" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Apr</text><text x="554" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">May</text><text x="624" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Jun</text><text x="680" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Jul</text><text x="736" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">Aug</text>
   <text x="42" y="98" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" text-anchor="end">Mon</text><text x="42" y="126" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" text-anchor="end">Wed</text><text x="42" y="154" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" text-anchor="end">Fri</text>
   
-      <rect x="50" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-08-17 · level 0</title>
+      <rect x="50" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-24 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.00s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.00s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="50" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-08-18 · level 3</title>
+      <rect x="50" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-08-25 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.05s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.05s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="50" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-08-19 · level 2</title>
+      <rect x="50" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-26 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.11s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.11s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="50" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-20 · level 1</title>
+      <rect x="50" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-08-27 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.16s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.16s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="50" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-08-21 · level 0</title>
+      <rect x="50" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-08-28 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.21s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.21s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="50" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-08-22 · level 0</title>
+      <rect x="50" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-08-29 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.27s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.27s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="50" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-23 · level 1</title>
+      <rect x="50" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-08-30 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.32s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.32s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="64" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-24 · level 1</title>
+      <rect x="64" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-31 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.04s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.04s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="64" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-08-25 · level 3</title>
+      <rect x="64" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-01 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.09s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.09s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="64" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-26 · level 1</title>
+      <rect x="64" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-02 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.15s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.15s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="64" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-08-27 · level 2</title>
+      <rect x="64" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-03 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.20s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.20s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="64" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-08-28 · level 2</title>
+      <rect x="64" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-04 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.25s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.25s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="64" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-08-29 · level 0</title>
+      <rect x="64" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-05 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.31s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.31s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="64" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-08-30 · level 0</title>
+      <rect x="64" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-06 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.36s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.36s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="78" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-08-31 · level 1</title>
+      <rect x="78" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-07 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.08s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.08s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="78" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-01 · level 0</title>
+      <rect x="78" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-08 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.13s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.13s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="78" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-02 · level 0</title>
+      <rect x="78" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-09 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.19s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.19s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="78" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-03 · level 2</title>
+      <rect x="78" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-10 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.24s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.24s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="78" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-04 · level 2</title>
+      <rect x="78" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-11 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.29s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.29s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="78" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-05 · level 2</title>
+      <rect x="78" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-12 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.35s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.35s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="78" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-06 · level 3</title>
+      <rect x="78" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-13 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.40s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.40s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="92" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-07 · level 0</title>
+      <rect x="92" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-14 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.12s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.12s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="92" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-08 · level 2</title>
+      <rect x="92" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-15 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.17s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.17s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="92" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-09 · level 3</title>
+      <rect x="92" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-16 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.23s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.23s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="92" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-10 · level 1</title>
+      <rect x="92" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-17 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.28s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.28s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="92" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-11 · level 0</title>
+      <rect x="92" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-18 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.33s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.33s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="92" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-12 · level 2</title>
+      <rect x="92" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-19 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.39s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.39s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="92" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-13 · level 0</title>
+      <rect x="92" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-20 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.44s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.44s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="106" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-14 · level 0</title>
+      <rect x="106" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-21 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.16s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.16s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="106" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-15 · level 0</title>
+      <rect x="106" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-22 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.21s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.21s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="106" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-16 · level 1</title>
+      <rect x="106" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-23 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.27s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.27s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="106" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-17 · level 1</title>
+      <rect x="106" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-24 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.32s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.32s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="106" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-18 · level 2</title>
+      <rect x="106" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-25 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.37s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.37s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="106" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-19 · level 1</title>
+      <rect x="106" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-26 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.43s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.43s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="106" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-20 · level 2</title>
+      <rect x="106" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-27 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.48s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.48s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="120" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-21 · level 0</title>
+      <rect x="120" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-28 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.20s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.20s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="120" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-09-22 · level 0</title>
+      <rect x="120" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-29 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.25s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.25s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="120" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-23 · level 2</title>
+      <rect x="120" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-30 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.31s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.31s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="120" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-24 · level 1</title>
+      <rect x="120" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-01 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.36s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.36s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="120" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-25 · level 2</title>
+      <rect x="120" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-02 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.41s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.41s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="120" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-26 · level 3</title>
+      <rect x="120" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-03 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.47s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.47s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="120" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-09-27 · level 3</title>
+      <rect x="120" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-04 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.52s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.52s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="134" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-09-28 · level 1</title>
+      <rect x="134" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-05 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.24s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.24s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="134" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-29 · level 2</title>
+      <rect x="134" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-06 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.29s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.29s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="134" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-09-30 · level 2</title>
+      <rect x="134" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-07 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.35s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.35s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="134" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-01 · level 3</title>
+      <rect x="134" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-08 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.40s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.40s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="134" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-02 · level 1</title>
+      <rect x="134" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-09 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.45s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.45s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="134" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-03 · level 3</title>
+      <rect x="134" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-10 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.51s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.51s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="134" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-04 · level 2</title>
+      <rect x="134" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-11 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.56s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.56s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="148" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-05 · level 3</title>
+      <rect x="148" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-12 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.28s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.28s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="148" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-06 · level 1</title>
+      <rect x="148" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-13 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.33s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.33s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="148" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-07 · level 2</title>
+      <rect x="148" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-14 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.39s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.39s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="148" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-08 · level 1</title>
+      <rect x="148" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-15 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.44s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.44s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="148" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-09 · level 1</title>
+      <rect x="148" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-16 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.49s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.49s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="148" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-10 · level 3</title>
+      <rect x="148" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-17 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.55s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.55s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="148" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-11 · level 0</title>
+      <rect x="148" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-18 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.60s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.60s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="162" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-12 · level 2</title>
+      <rect x="162" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-19 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.32s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.32s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="162" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-13 · level 2</title>
+      <rect x="162" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-20 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.37s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.37s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="162" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-14 · level 1</title>
+      <rect x="162" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-21 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.43s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.43s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="162" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-15 · level 1</title>
+      <rect x="162" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-22 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.48s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.48s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="162" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-16 · level 1</title>
+      <rect x="162" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-23 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.53s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.53s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="162" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-17 · level 0</title>
+      <rect x="162" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-24 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.59s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.59s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="162" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-18 · level 0</title>
+      <rect x="162" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-25 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.64s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.64s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="176" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-19 · level 2</title>
+      <rect x="176" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-26 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.36s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.36s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="176" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-20 · level 0</title>
+      <rect x="176" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-27 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.41s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.41s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="176" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-21 · level 2</title>
+      <rect x="176" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-28 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.47s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.47s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="176" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-22 · level 2</title>
+      <rect x="176" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-29 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.52s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.52s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="176" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-10-23 · level 1</title>
+      <rect x="176" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-30 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.57s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.57s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="176" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-24 · level 2</title>
+      <rect x="176" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-31 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.63s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.63s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="176" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-25 · level 2</title>
+      <rect x="176" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-01 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.68s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.68s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="190" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-26 · level 3</title>
+      <rect x="190" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-02 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.40s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.40s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="190" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-10-27 · level 3</title>
+      <rect x="190" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-03 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.45s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.45s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="190" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-28 · level 2</title>
+      <rect x="190" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-04 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.51s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.51s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="190" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-29 · level 2</title>
+      <rect x="190" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-05 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.56s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.56s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="190" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-10-30 · level 0</title>
+      <rect x="190" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-06 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.61s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.61s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="190" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-10-31 · level 2</title>
+      <rect x="190" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-11-07 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.67s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.67s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="190" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-01 · level 1</title>
+      <rect x="190" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-08 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.72s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.72s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="204" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-02 · level 1</title>
+      <rect x="204" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-09 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.44s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.44s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="204" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-03 · level 2</title>
+      <rect x="204" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-10 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.49s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.49s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="204" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-04 · level 1</title>
+      <rect x="204" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-11 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.55s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.55s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="204" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-05 · level 2</title>
+      <rect x="204" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-12 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.60s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.60s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="204" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-06 · level 0</title>
+      <rect x="204" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-13 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.65s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.65s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="204" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-11-07 · level 3</title>
+      <rect x="204" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-14 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.71s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.71s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="204" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-08 · level 2</title>
+      <rect x="204" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-15 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.76s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.76s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="218" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-09 · level 0</title>
+      <rect x="218" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-16 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.48s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.48s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="218" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-10 · level 2</title>
+      <rect x="218" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-17 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.53s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.53s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="218" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-11 · level 2</title>
+      <rect x="218" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-18 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.59s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.59s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="218" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-12 · level 2</title>
+      <rect x="218" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-19 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.64s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.64s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="218" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-13 · level 0</title>
+      <rect x="218" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-20 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.69s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.69s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="218" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-14 · level 2</title>
+      <rect x="218" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-11-21 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.75s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.75s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="218" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-15 · level 1</title>
+      <rect x="218" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-22 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.80s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.80s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="232" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-16 · level 1</title>
+      <rect x="232" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-23 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.52s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.52s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="232" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-17 · level 2</title>
+      <rect x="232" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-24 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.57s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.57s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="232" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-18 · level 0</title>
+      <rect x="232" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-25 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.63s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.63s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="232" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-19 · level 0</title>
+      <rect x="232" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-26 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.68s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.68s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="232" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-20 · level 1</title>
+      <rect x="232" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-27 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.73s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.73s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="232" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-11-21 · level 3</title>
+      <rect x="232" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-28 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.79s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.79s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="232" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-22 · level 2</title>
+      <rect x="232" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-11-29 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.84s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.84s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="246" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-23 · level 0</title>
+      <rect x="246" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-30 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.56s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.56s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="246" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-24 · level 0</title>
+      <rect x="246" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-01 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.61s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.61s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="246" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-25 · level 2</title>
+      <rect x="246" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-02 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.67s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.67s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="246" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-26 · level 2</title>
+      <rect x="246" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-03 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.72s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.72s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="246" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-11-27 · level 2</title>
+      <rect x="246" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-04 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.77s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.77s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="246" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-11-28 · level 1</title>
+      <rect x="246" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-05 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.83s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.83s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="246" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-11-29 · level 3</title>
+      <rect x="246" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-06 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.88s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.88s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="260" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-11-30 · level 0</title>
+      <rect x="260" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-07 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.60s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.60s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="260" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-01 · level 2</title>
+      <rect x="260" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-08 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.65s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.65s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="260" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-02 · level 3</title>
+      <rect x="260" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-09 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.71s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.71s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="260" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-03 · level 1</title>
+      <rect x="260" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-10 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.76s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.76s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="260" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-04 · level 1</title>
+      <rect x="260" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-11 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.81s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.81s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="260" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-05 · level 3</title>
+      <rect x="260" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-12 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.87s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.87s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="260" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-06 · level 2</title>
+      <rect x="260" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-13 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.92s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.92s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="274" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-07 · level 0</title>
+      <rect x="274" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-14 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.64s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.64s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="274" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-08 · level 2</title>
+      <rect x="274" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-15 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.69s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.69s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="274" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-09 · level 1</title>
+      <rect x="274" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-16 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.75s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.75s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="274" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-10 · level 1</title>
+      <rect x="274" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-17 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.80s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.80s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="274" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-11 · level 1</title>
+      <rect x="274" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-18 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.85s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.85s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="274" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-12 · level 2</title>
+      <rect x="274" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-19 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.91s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.91s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="274" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-13 · level 2</title>
+      <rect x="274" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-20 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.96s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.96s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="288" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-14 · level 0</title>
+      <rect x="288" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-21 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.68s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.68s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="288" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-15 · level 0</title>
+      <rect x="288" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-22 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.73s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.73s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="288" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-16 · level 0</title>
+      <rect x="288" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-23 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.79s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.79s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="288" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-17 · level 2</title>
+      <rect x="288" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-24 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.84s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.84s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="288" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-18 · level 0</title>
+      <rect x="288" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-25 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.89s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.89s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="288" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-19 · level 0</title>
+      <rect x="288" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-26 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.95s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.95s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="288" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-20 · level 3</title>
+      <rect x="288" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-27 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.00s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.00s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="302" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-21 · level 2</title>
+      <rect x="302" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-28 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.72s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.72s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="302" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-22 · level 2</title>
+      <rect x="302" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-29 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.77s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.77s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="302" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-23 · level 3</title>
+      <rect x="302" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-30 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.83s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.83s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="302" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-24 · level 0</title>
+      <rect x="302" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-31 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.88s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.88s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="302" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-25 · level 3</title>
+      <rect x="302" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-01 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.93s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.93s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="302" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2025-12-26 · level 1</title>
+      <rect x="302" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-02 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.99s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.99s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="302" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-27 · level 3</title>
+      <rect x="302" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-03 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.04s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.04s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="316" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2025-12-28 · level 0</title>
+      <rect x="316" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-04 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.76s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.76s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="316" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-29 · level 3</title>
+      <rect x="316" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-05 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.81s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.81s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="316" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2025-12-30 · level 2</title>
+      <rect x="316" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-06 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.87s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.87s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="316" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2025-12-31 · level 3</title>
+      <rect x="316" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-07 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.92s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.92s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="316" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-01 · level 0</title>
+      <rect x="316" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-08 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.97s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.97s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="316" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-02 · level 0</title>
+      <rect x="316" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-09 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.03s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.03s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="316" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-03 · level 3</title>
+      <rect x="316" y="158" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-10 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.08s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.08s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="330" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-04 · level 1</title>
+      <rect x="330" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-11 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.80s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.80s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="330" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-05 · level 3</title>
+      <rect x="330" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-12 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.85s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.85s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="330" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-06 · level 2</title>
+      <rect x="330" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-13 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.91s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.91s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="330" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-07 · level 0</title>
+      <rect x="330" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-14 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="0.96s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.96s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="330" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-08 · level 1</title>
+      <rect x="330" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-15 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.01s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.01s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="330" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-09 · level 2</title>
+      <rect x="330" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-16 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.07s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.07s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="330" y="158" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-10 · level 4</title>
+      <rect x="330" y="158" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-17 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.12s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.12s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="344" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-11 · level 2</title>
+      <rect x="344" y="74" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-18 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="0.84s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.84s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="344" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-12 · level 0</title>
+      <rect x="344" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-19 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="0.89s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.89s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="344" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-13 · level 1</title>
+      <rect x="344" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-20 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="0.95s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.95s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="344" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-01-14 · level 0</title>
+      <rect x="344" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-21 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.00s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.00s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="344" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-15 · level 3</title>
+      <rect x="344" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-22 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.05s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.05s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="344" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-16 · level 2</title>
+      <rect x="344" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-23 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.11s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.11s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="344" y="158" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-17 · level 4</title>
+      <rect x="344" y="158" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-24 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.16s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.16s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="358" y="74" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-18 · level 4</title>
+      <rect x="358" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-25 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.88s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.88s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="358" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-19 · level 4</title>
+      <rect x="358" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-26 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="0.93s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.93s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="358" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-20 · level 4</title>
+      <rect x="358" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-27 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="0.99s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.99s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="358" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-21 · level 2</title>
+      <rect x="358" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-28 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.04s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.04s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="358" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-22 · level 2</title>
+      <rect x="358" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-29 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.09s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.09s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="358" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-23 · level 2</title>
+      <rect x="358" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-30 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.15s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.15s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="358" y="158" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-01-24 · level 4</title>
+      <rect x="358" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-31 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.20s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.20s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="372" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-25 · level 1</title>
+      <rect x="372" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-01 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.92s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.92s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="372" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-26 · level 2</title>
+      <rect x="372" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-02-02 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="0.97s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.97s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="372" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-27 · level 1</title>
+      <rect x="372" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-02-03 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.03s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.03s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="372" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-01-28 · level 1</title>
+      <rect x="372" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-02-04 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.08s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.08s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="372" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-01-29 · level 2</title>
+      <rect x="372" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-02-05 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.13s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.13s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="372" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-30 · level 3</title>
+      <rect x="372" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-06 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.19s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.19s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="372" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-01-31 · level 3</title>
+      <rect x="372" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-07 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.24s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.24s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="386" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-01 · level 3</title>
+      <rect x="386" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-08 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="0.96s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="0.96s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="386" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-02-02 · level 4</title>
+      <rect x="386" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-09 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.01s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.01s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="386" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-02-03 · level 4</title>
+      <rect x="386" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-10 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.07s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.07s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="386" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-02-04 · level 0</title>
+      <rect x="386" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-11 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.12s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.12s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="386" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-02-05 · level 1</title>
+      <rect x="386" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-12 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.17s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.17s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="386" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-06 · level 2</title>
+      <rect x="386" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-13 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.23s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.23s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="386" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-07 · level 3</title>
+      <rect x="386" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-14 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.28s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.28s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="400" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-08 · level 3</title>
+      <rect x="400" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-02-15 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.00s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.00s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="400" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-09 · level 2</title>
+      <rect x="400" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-16 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.05s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.05s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="400" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-10 · level 3</title>
+      <rect x="400" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-02-17 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.11s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.11s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="400" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-11 · level 3</title>
+      <rect x="400" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-18 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.16s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.16s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="400" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-12 · level 2</title>
+      <rect x="400" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-19 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.21s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.21s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="400" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-13 · level 2</title>
+      <rect x="400" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-20 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.27s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.27s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="400" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-14 · level 2</title>
+      <rect x="400" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-21 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.32s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.32s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="414" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-02-15 · level 1</title>
+      <rect x="414" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-22 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.04s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.04s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="414" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-16 · level 2</title>
+      <rect x="414" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-02-23 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.09s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.09s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="414" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-02-17 · level 0</title>
+      <rect x="414" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-24 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.15s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.15s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="414" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-18 · level 2</title>
+      <rect x="414" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-25 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.20s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.20s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="414" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-19 · level 3</title>
+      <rect x="414" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-26 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.25s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.25s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="414" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-20 · level 2</title>
+      <rect x="414" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-02-27 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.31s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.31s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="414" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-21 · level 3</title>
+      <rect x="414" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-28 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.36s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.36s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="428" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-22 · level 3</title>
+      <rect x="428" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-01 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.08s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.08s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="428" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-02-23 · level 0</title>
+      <rect x="428" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-02 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.13s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.13s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="428" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-24 · level 2</title>
+      <rect x="428" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-03 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.19s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.19s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="428" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-25 · level 2</title>
+      <rect x="428" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-04 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.24s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.24s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="428" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-02-26 · level 3</title>
+      <rect x="428" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-05 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.29s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.29s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="428" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-02-27 · level 1</title>
+      <rect x="428" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-06 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.35s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.35s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="428" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-02-28 · level 2</title>
+      <rect x="428" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-07 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.40s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.40s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="442" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-01 · level 1</title>
+      <rect x="442" y="74" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-08 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.12s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.12s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="442" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-02 · level 0</title>
+      <rect x="442" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-09 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.17s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.17s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="442" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-03 · level 3</title>
+      <rect x="442" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-10 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.23s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.23s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="442" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-04 · level 1</title>
+      <rect x="442" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-11 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.28s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.28s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="442" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-05 · level 0</title>
+      <rect x="442" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-12 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.33s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.33s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="442" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-06 · level 2</title>
+      <rect x="442" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-13 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.39s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.39s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="442" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-07 · level 2</title>
+      <rect x="442" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-14 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.44s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.44s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="456" y="74" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-08 · level 4</title>
+      <rect x="456" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-15 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.16s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.16s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="456" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-09 · level 2</title>
+      <rect x="456" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-16 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.21s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.21s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="456" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-10 · level 1</title>
+      <rect x="456" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-17 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.27s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.27s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="456" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-11 · level 2</title>
+      <rect x="456" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-18 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.32s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.32s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="456" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-12 · level 0</title>
+      <rect x="456" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-19 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.37s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.37s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="456" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-13 · level 3</title>
+      <rect x="456" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-20 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.43s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.43s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="456" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-14 · level 2</title>
+      <rect x="456" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-21 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.48s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.48s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="470" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-15 · level 1</title>
+      <rect x="470" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-22 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.20s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.20s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="470" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-16 · level 4</title>
+      <rect x="470" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-23 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.25s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.25s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="470" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-17 · level 4</title>
+      <rect x="470" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-24 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.31s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.31s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="470" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-18 · level 3</title>
+      <rect x="470" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-25 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.36s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.36s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="470" y="130" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-19 · level 3</title>
+      <rect x="470" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-26 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.41s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.41s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="470" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-20 · level 1</title>
+      <rect x="470" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-27 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.47s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.47s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="470" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-03-21 · level 2</title>
+      <rect x="470" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-28 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.52s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.52s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="484" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-22 · level 1</title>
+      <rect x="484" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-29 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.24s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.24s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="484" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-23 · level 1</title>
+      <rect x="484" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-30 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.29s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.29s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="484" y="102" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-24 · level 4</title>
+      <rect x="484" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-31 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.35s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.35s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="484" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-03-25 · level 0</title>
+      <rect x="484" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-01 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.40s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.40s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="484" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-26 · level 1</title>
+      <rect x="484" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-02 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.45s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.45s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="484" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-27 · level 3</title>
+      <rect x="484" y="144" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-04-03 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.51s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.51s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="484" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-03-28 · level 3</title>
+      <rect x="484" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-04 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.56s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.56s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="498" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-29 · level 1</title>
+      <rect x="498" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-05 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.28s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.28s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="498" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-03-30 · level 4</title>
+      <rect x="498" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-04-06 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.33s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.33s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="498" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-03-31 · level 1</title>
+      <rect x="498" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-07 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.39s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.39s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="498" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-01 · level 3</title>
+      <rect x="498" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-08 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.44s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.44s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="498" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-02 · level 1</title>
+      <rect x="498" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-09 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.49s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.49s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="498" y="144" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-04-03 · level 4</title>
+      <rect x="498" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-10 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.55s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.55s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="498" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-04 · level 3</title>
+      <rect x="498" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-11 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.60s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.60s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="512" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-05 · level 3</title>
+      <rect x="512" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-12 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.32s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.32s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="512" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-04-06 · level 4</title>
+      <rect x="512" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-13 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.37s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.37s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="512" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-07 · level 1</title>
+      <rect x="512" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-14 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.43s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.43s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="512" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-08 · level 2</title>
+      <rect x="512" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-15 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.48s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.48s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="512" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-09 · level 1</title>
+      <rect x="512" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-16 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.53s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.53s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="512" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-10 · level 2</title>
+      <rect x="512" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-17 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.59s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.59s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="512" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-11 · level 2</title>
+      <rect x="512" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-18 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.64s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.64s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="526" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-04-12 · level 3</title>
+      <rect x="526" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-19 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.36s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.36s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="526" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-13 · level 1</title>
+      <rect x="526" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-20 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.41s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.41s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="526" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-14 · level 0</title>
+      <rect x="526" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-21 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.47s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.47s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="526" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-15 · level 1</title>
+      <rect x="526" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-22 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.52s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.52s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="526" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-16 · level 0</title>
+      <rect x="526" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-23 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.57s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.57s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="526" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-17 · level 1</title>
+      <rect x="526" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-24 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.63s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.63s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="526" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-18 · level 2</title>
+      <rect x="526" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-25 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.68s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.68s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="540" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-19 · level 2</title>
+      <rect x="540" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-26 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.40s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.40s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="540" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-20 · level 1</title>
+      <rect x="540" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-27 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.45s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.45s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="540" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-04-21 · level 2</title>
+      <rect x="540" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-28 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.51s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.51s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="540" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-22 · level 1</title>
+      <rect x="540" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-29 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.56s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.56s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="540" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-23 · level 0</title>
+      <rect x="540" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-30 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.61s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.61s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="540" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-24 · level 0</title>
+      <rect x="540" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-05-01 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.67s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.67s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="540" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-25 · level 1</title>
+      <rect x="540" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-02 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.72s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.72s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="554" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-26 · level 1</title>
+      <rect x="554" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-03 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.44s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.44s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="554" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-27 · level 1</title>
+      <rect x="554" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-04 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.49s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.49s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="554" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-04-28 · level 1</title>
+      <rect x="554" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-05 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.55s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.55s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="554" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-29 · level 0</title>
+      <rect x="554" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-05-06 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.60s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.60s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="554" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-04-30 · level 0</title>
+      <rect x="554" y="130" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-05-07 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.65s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.65s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="554" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-05-01 · level 2</title>
+      <rect x="554" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-08 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.71s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.71s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="554" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-02 · level 0</title>
+      <rect x="554" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-09 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.76s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.76s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="568" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-03 · level 1</title>
+      <rect x="568" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-05-10 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.48s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.48s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="568" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-04 · level 1</title>
+      <rect x="568" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-11 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.53s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.53s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="568" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-05 · level 1</title>
+      <rect x="568" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-12 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.59s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.59s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="568" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-05-06 · level 3</title>
+      <rect x="568" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-13 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.64s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.64s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="568" y="130" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-05-07 · level 4</title>
+      <rect x="568" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-14 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.69s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.69s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="568" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-08 · level 1</title>
+      <rect x="568" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-15 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.75s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.75s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="568" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-09 · level 1</title>
+      <rect x="568" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-05-16 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.80s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.80s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="582" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-05-10 · level 2</title>
+      <rect x="582" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-17 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.52s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.52s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="582" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-11 · level 1</title>
+      <rect x="582" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-18 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.57s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.57s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="582" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-12 · level 1</title>
+      <rect x="582" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-19 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.63s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.63s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="582" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-13 · level 1</title>
+      <rect x="582" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-05-20 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.68s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.68s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="582" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-14 · level 1</title>
+      <rect x="582" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-21 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.73s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.73s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="582" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-15 · level 0</title>
+      <rect x="582" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-22 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.79s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.79s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="582" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-05-16 · level 3</title>
+      <rect x="582" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-23 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.84s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.84s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="596" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-17 · level 1</title>
+      <rect x="596" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-24 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.56s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.56s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="596" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-18 · level 1</title>
+      <rect x="596" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-25 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.61s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.61s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="596" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-19 · level 1</title>
+      <rect x="596" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-26 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.67s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.67s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="596" y="116" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-05-20 · level 3</title>
+      <rect x="596" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-27 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.72s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.72s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="596" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-21 · level 1</title>
+      <rect x="596" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-28 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.77s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.77s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="596" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-22 · level 1</title>
+      <rect x="596" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-29 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.83s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.83s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="596" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-23 · level 1</title>
+      <rect x="596" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-30 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.88s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.88s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="610" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-05-24 · level 1</title>
+      <rect x="610" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-31 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.60s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.60s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="610" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-25 · level 0</title>
+      <rect x="610" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-06-01 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.65s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.65s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="610" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-26 · level 0</title>
+      <rect x="610" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-02 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.71s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.71s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="610" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-27 · level 0</title>
+      <rect x="610" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-03 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.76s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.76s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="610" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-28 · level 0</title>
+      <rect x="610" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-04 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.81s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.81s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="610" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-29 · level 0</title>
+      <rect x="610" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-05 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.87s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.87s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="610" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-30 · level 0</title>
+      <rect x="610" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-06 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.92s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.92s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="624" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-05-31 · level 0</title>
+      <rect x="624" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-07 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.64s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.64s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="624" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-06-01 · level 3</title>
+      <rect x="624" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-06-08 · level 4</title>
         <animate attributeName="opacity" values="0;1" begin="1.69s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.69s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="624" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-02 · level 0</title>
+      <rect x="624" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-06-09 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.75s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.75s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="624" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-03 · level 0</title>
+      <rect x="624" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-10 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.80s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.80s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="624" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-04 · level 0</title>
+      <rect x="624" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-11 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.85s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.85s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="624" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-05 · level 0</title>
+      <rect x="624" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-12 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.91s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.91s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="624" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-06 · level 0</title>
+      <rect x="624" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-13 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.96s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.96s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="638" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-07 · level 1</title>
+      <rect x="638" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-14 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.68s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.68s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="638" y="88" width="11" height="11" rx="2.5" fill="#39d353" opacity="0"><title>2026-06-08 · level 4</title>
+      <rect x="638" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-15 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.73s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.73s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="638" y="102" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-06-09 · level 3</title>
+      <rect x="638" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-16 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.79s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.79s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="638" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-10 · level 1</title>
+      <rect x="638" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-17 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.84s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.84s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="638" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-11 · level 1</title>
+      <rect x="638" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-18 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.89s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.89s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="638" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-12 · level 1</title>
+      <rect x="638" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-19 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.95s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.95s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="638" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-13 · level 0</title>
+      <rect x="638" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-20 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.00s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.00s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="652" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-14 · level 2</title>
+      <rect x="652" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-21 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.72s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.72s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="652" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-15 · level 1</title>
+      <rect x="652" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-22 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.77s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.77s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="652" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-16 · level 0</title>
+      <rect x="652" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-23 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.83s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.83s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="652" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-17 · level 1</title>
+      <rect x="652" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-24 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.88s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.88s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="652" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-18 · level 1</title>
+      <rect x="652" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-25 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.93s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.93s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="652" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-19 · level 0</title>
+      <rect x="652" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-26 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.99s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.99s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="652" y="158" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-20 · level 1</title>
+      <rect x="652" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-06-27 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="2.04s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.04s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="666" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-21 · level 1</title>
+      <rect x="666" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-28 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.76s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.76s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="666" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-22 · level 2</title>
+      <rect x="666" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-29 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.81s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.81s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="666" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-23 · level 1</title>
+      <rect x="666" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-30 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.87s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.87s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="666" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-06-24 · level 1</title>
+      <rect x="666" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-01 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.92s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.92s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="666" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-25 · level 2</title>
+      <rect x="666" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-02 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.97s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.97s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="666" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-06-26 · level 0</title>
+      <rect x="666" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-03 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.03s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.03s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="666" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-06-27 · level 3</title>
+      <rect x="666" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-04 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.08s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.08s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="680" y="74" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-28 · level 2</title>
+      <rect x="680" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-05 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.80s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.80s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="680" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-29 · level 2</title>
+      <rect x="680" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-07-06 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.85s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.85s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="680" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-06-30 · level 2</title>
+      <rect x="680" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-07 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.91s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.91s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="680" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-01 · level 2</title>
+      <rect x="680" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-08 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.96s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.96s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="680" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-02 · level 1</title>
+      <rect x="680" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-09 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.01s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.01s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="680" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-03 · level 0</title>
+      <rect x="680" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-10 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.07s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.07s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="680" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-04 · level 0</title>
+      <rect x="680" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-11 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="2.12s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.12s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="694" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-05 · level 1</title>
+      <rect x="694" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-12 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.84s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.84s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="694" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-07-06 · level 3</title>
+      <rect x="694" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-13 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.89s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.89s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="694" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-07 · level 2</title>
+      <rect x="694" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-14 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.95s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.95s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="694" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-08 · level 2</title>
+      <rect x="694" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-15 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.00s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.00s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="694" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-09 · level 1</title>
+      <rect x="694" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-16 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="2.05s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.05s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="694" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-10 · level 1</title>
+      <rect x="694" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-17 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.11s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.11s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="694" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-11 · level 2</title>
+      <rect x="694" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-18 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="2.16s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.16s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="708" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-12 · level 1</title>
+      <rect x="708" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-19 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.88s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.88s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="708" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-13 · level 0</title>
+      <rect x="708" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-20 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.93s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.93s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="708" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-14 · level 1</title>
+      <rect x="708" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-21 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="1.99s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.99s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="708" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-15 · level 1</title>
+      <rect x="708" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-22 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.04s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.04s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="708" y="130" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-16 · level 2</title>
+      <rect x="708" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-23 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.09s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.09s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="708" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-17 · level 1</title>
+      <rect x="708" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-24 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="2.15s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.15s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="708" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-18 · level 2</title>
+      <rect x="708" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-25 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.20s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.20s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="722" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-19 · level 1</title>
+      <rect x="722" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-26 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="1.92s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.92s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="722" y="88" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-20 · level 2</title>
+      <rect x="722" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-07-27 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="1.97s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.97s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="722" y="102" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-21 · level 2</title>
+      <rect x="722" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-28 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.03s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.03s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="722" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-22 · level 1</title>
+      <rect x="722" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-29 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="2.08s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.08s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="722" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-23 · level 1</title>
+      <rect x="722" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-30 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.13s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.13s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="722" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-24 · level 2</title>
+      <rect x="722" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-31 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.19s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.19s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="722" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-07-25 · level 0</title>
+      <rect x="722" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-01 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.24s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.24s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="736" y="74" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-26 · level 1</title>
+      <rect x="736" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-02 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="1.96s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="1.96s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="736" y="88" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-07-27 · level 3</title>
+      <rect x="736" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-03 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.01s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.01s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="736" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-28 · level 1</title>
+      <rect x="736" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-04 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.07s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.07s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="736" y="116" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-07-29 · level 2</title>
+      <rect x="736" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-05 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.12s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.12s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="736" y="130" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-30 · level 1</title>
+      <rect x="736" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-06 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.17s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.17s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="736" y="144" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-07-31 · level 1</title>
+      <rect x="736" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-07 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.23s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.23s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="736" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-01 · level 0</title>
+      <rect x="736" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-08-08 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="2.28s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.28s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="750" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-02 · level 0</title>
+      <rect x="750" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-08-09 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="2.00s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.00s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="750" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-03 · level 0</title>
+      <rect x="750" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-10 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.05s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.05s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="750" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-04 · level 0</title>
+      <rect x="750" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-11 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.11s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.11s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="750" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-05 · level 0</title>
+      <rect x="750" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-12 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.16s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.16s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="750" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-06 · level 0</title>
+      <rect x="750" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-13 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.21s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.21s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="750" y="144" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-07 · level 0</title>
+      <rect x="750" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-08-14 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="2.27s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.27s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="750" y="158" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-08-08 · level 2</title>
+      <rect x="750" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-08-15 · level 3</title>
         <animate attributeName="opacity" values="0;1" begin="2.32s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.32s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="764" y="74" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-08-09 · level 3</title>
+      <rect x="764" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-16 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.04s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.04s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="764" y="88" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-10 · level 1</title>
+      <rect x="764" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-17 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.09s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.09s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="764" y="102" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-11 · level 0</title>
+      <rect x="764" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-18 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.15s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.15s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="764" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-12 · level 1</title>
+      <rect x="764" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-19 · level 1</title>
         <animate attributeName="opacity" values="0;1" begin="2.20s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.20s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="764" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-13 · level 0</title>
+      <rect x="764" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-20 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.25s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.25s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="764" y="144" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-08-14 · level 3</title>
+      <rect x="764" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-08-21 · level 2</title>
         <animate attributeName="opacity" values="0;1" begin="2.31s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.31s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="764" y="158" width="11" height="11" rx="2.5" fill="#26a641" opacity="0"><title>2026-08-15 · level 3</title>
+      <rect x="764" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-22 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.36s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.36s" dur="0.45s" fill="freeze"/>
       </rect>
-      <rect x="778" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-16 · level 0</title>
+      <rect x="778" y="74" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-23 · level 0</title>
         <animate attributeName="opacity" values="0;1" begin="2.08s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.08s" dur="0.45s" fill="freeze"/>
-      </rect>
-      <rect x="778" y="88" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-17 · level 0</title>
-        <animate attributeName="opacity" values="0;1" begin="2.13s" dur="0.45s" fill="freeze"/>
-        <animate attributeName="rx" values="5.5;2.5" begin="2.13s" dur="0.45s" fill="freeze"/>
-      </rect>
-      <rect x="778" y="102" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-18 · level 1</title>
-        <animate attributeName="opacity" values="0;1" begin="2.19s" dur="0.45s" fill="freeze"/>
-        <animate attributeName="rx" values="5.5;2.5" begin="2.19s" dur="0.45s" fill="freeze"/>
-      </rect>
-      <rect x="778" y="116" width="11" height="11" rx="2.5" fill="#0e4429" opacity="0"><title>2026-08-19 · level 1</title>
-        <animate attributeName="opacity" values="0;1" begin="2.24s" dur="0.45s" fill="freeze"/>
-        <animate attributeName="rx" values="5.5;2.5" begin="2.24s" dur="0.45s" fill="freeze"/>
-      </rect>
-      <rect x="778" y="130" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-20 · level 0</title>
-        <animate attributeName="opacity" values="0;1" begin="2.29s" dur="0.45s" fill="freeze"/>
-        <animate attributeName="rx" values="5.5;2.5" begin="2.29s" dur="0.45s" fill="freeze"/>
-      </rect>
-      <rect x="778" y="144" width="11" height="11" rx="2.5" fill="#006d32" opacity="0"><title>2026-08-21 · level 2</title>
-        <animate attributeName="opacity" values="0;1" begin="2.35s" dur="0.45s" fill="freeze"/>
-        <animate attributeName="rx" values="5.5;2.5" begin="2.35s" dur="0.45s" fill="freeze"/>
-      </rect>
-      <rect x="778" y="158" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-22 · level 0</title>
-        <animate attributeName="opacity" values="0;1" begin="2.40s" dur="0.45s" fill="freeze"/>
-        <animate attributeName="rx" values="5.5;2.5" begin="2.40s" dur="0.45s" fill="freeze"/>
       </rect>
 
   <!-- Sheen sweeps the finished grid, so the card keeps moving after the fill. -->
@@ -1536,7 +1512,7 @@
     </g>
     <g opacity="0">
       <animate attributeName="opacity" values="0;1" begin="3.08s" dur="0.5s" fill="freeze"/>
-      <text x="188.0" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#ffa657">1</text>
+      <text x="188.0" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#ffa657">0</text>
       <text x="204.6" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#8b949e">day streak</text>
     </g>
     <g opacity="0">
