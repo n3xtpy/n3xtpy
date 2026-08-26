@@ -1500,6 +1500,10 @@
         <animate attributeName="opacity" values="0;1" begin="2.19s" dur="0.45s" fill="freeze"/>
         <animate attributeName="rx" values="5.5;2.5" begin="2.19s" dur="0.45s" fill="freeze"/>
       </rect>
+      <rect x="778" y="116" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><title>2026-08-26 · level 0</title>
+        <animate attributeName="opacity" values="0;1" begin="2.24s" dur="0.45s" fill="freeze"/>
+        <animate attributeName="rx" values="5.5;2.5" begin="2.24s" dur="0.45s" fill="freeze"/>
+      </rect>
 
   <!-- Sheen sweeps the finished grid, so the card keeps moving after the fill. -->
   <g clip-path="url(#gridClip)" pointer-events="none">
