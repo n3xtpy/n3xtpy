@@ -1,6 +1,7 @@
 <div align="center">
 
-# n3xtpy
+# Leon Holetz
+### Dr.Lnx
 
 ### Developer at N3XT Agency
 
