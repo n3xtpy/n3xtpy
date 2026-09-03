@@ -1,7 +1,7 @@
 <div align="center">
 
-# Leon Holetz
-Dr.Lnx
+# Dr.Lnx
+Leon
 
 ### Developer at N3XT Agency
 
