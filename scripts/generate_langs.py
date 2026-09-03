@@ -1,15 +1,15 @@
-"""Generate the full-width language-breakdown strip for the profile README.
+"""Generate the language-breakdown card for the profile README.
 
-One stacked bar whose segments grow in sequence, then a row of legend chips
-that fade in behind them. Deliberately a different read from the vertical
-mini-bars on the neofetch card: this one is about proportion across the whole
-account, not the top five in a list.
+One stacked bar whose segments unroll in sequence, then a two-column legend
+underneath. Deliberately a different read from the top-four list on the
+profile card: this one is about proportion across the whole account, not the
+languages the most repos happen to be tagged with.
 
 Language weight is measured in bytes of source, summed across every public
 repo via the per-repo /languages endpoint -- far more honest than counting
 repos, where a one-file experiment weighs the same as a real project. That
 costs one request per repo, so the repo list is capped and the whole thing
-degrades to leaving the existing strip in place if the API says no.
+degrades to leaving the existing card in place if the API says no.
 """
 import os
 import sys
@@ -17,29 +17,37 @@ import sys
 import requests
 
 from theme import (
-    ACCENT,
-    BG,
     BORDER,
+    CARD_W,
     DIM,
     FG,
-    GREEN,
     MONO,
+    PAD,
     PURPLE,
-    defs_border_gradient,
+    card_border,
+    card_shell,
+    appear,
+    card_title,
+    caret,
+    defs_card,
     esc,
+    fade_in,
+    grow_w,
     lang_color,
-    window_chrome,
+    sheen,
+    text_w,
 )
 
 USERNAME = "n3xtpy"
 OUT_PATH = "assets/langs.svg"
 
-WIDTH = 880
-PAD = 26
-BAR_Y = 74
+BAR_Y = 82
 BAR_H = 20
+LEGEND_TOP = 148
+LEGEND_LH = 28
+COLS = 2
 MAX_REPOS = 40      # keeps us inside the 60 req/hr unauthenticated budget
-MAX_SHOWN = 7       # everything past this collapses into "other"
+MAX_SHOWN = 8       # everything past this collapses into "other"
 
 HEADERS = {"Accept": "application/vnd.github+json", "User-Agent": "profile-readme-bot"}
 
@@ -67,7 +75,7 @@ def fetch_languages(username):
             for lang, size in resp.json().items():
                 totals[lang] = totals.get(lang, 0) + size
         except Exception:
-            continue  # one bad repo shouldn't sink the whole strip
+            continue  # one bad repo shouldn't sink the whole card
     return totals
 
 
@@ -84,101 +92,80 @@ def top_slice(totals, limit=MAX_SHOWN):
     return out
 
 
-CHIP_FONT = 12.5
-CHIP_CHAR_W = CHIP_FONT * 0.6   # monospace advance
-CHIP_DOT_W = 18                 # swatch plus its gap
-CHIP_GAP = 26                   # space between adjacent chips
-CHIP_ROW_H = 26
-
-
-def chip_width(lang, share):
-    """On-screen width of one legend chip, used to wrap the legend rows."""
-    pct = f"{share * 100:.1f}%"
-    return CHIP_DOT_W + (len(lang) + 1 + len(pct)) * CHIP_CHAR_W + 8
-
-
 def render_svg(langs):
-    bar_w = WIDTH - 2 * PAD
-    chips_y = BAR_Y + BAR_H + 38
+    bar_w = CARD_W - 2 * PAD
+    col_w = bar_w / COLS
+    rows = (len(langs) + COLS - 1) // COLS
+    height = int(LEGEND_TOP + (rows - 1) * LEGEND_LH + 40)
 
-    segments, chips = [], []
+    segments, legend = [], []
     x = float(PAD)
-    chip_x = float(PAD)
-    chip_row = 0
     for i, (lang, share) in enumerate(langs):
         seg_w = bar_w * share
         color = lang_color(lang, i) if lang != "other" else BORDER
-        begin = 0.35 + i * 0.16
+        begin = 0.35 + i * 0.14
 
         # x is fixed; only the width animates, so segments unroll left to right.
         segments.append(f'''
-    <rect x="{x:.2f}" y="{BAR_Y}" width="0" height="{BAR_H}" fill="{color}">
+    <rect x="{x:.2f}" y="{BAR_Y}" width="{seg_w:.2f}" height="{BAR_H}" fill="{color}">
       <title>{esc(lang)} — {share * 100:.1f}%</title>
-      <animate attributeName="width" from="0" to="{seg_w:.2f}" begin="{begin:.2f}s"
-               dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      {grow_w(seg_w, begin, 0.9)}
     </rect>''')
+        x += seg_w
 
-        # Wrap to the next row rather than running off the edge of the card.
-        w = chip_width(lang, share)
-        if chip_x > PAD and chip_x + w > WIDTH - PAD:
-            chip_row += 1
-            chip_x = float(PAD)
-        cy = chips_y + chip_row * CHIP_ROW_H
-
-        chips.append(f'''
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;1" begin="{begin + 0.45:.2f}s" dur="0.45s" fill="freeze"/>
-      <circle cx="{chip_x + 6}" cy="{cy - 4}" r="5" fill="{color}"/>
-      <text x="{chip_x + CHIP_DOT_W}" y="{cy}" font-family="{MONO}" font-size="{CHIP_FONT}" fill="{FG}">{esc(lang)}</text>
-      <text x="{chip_x + CHIP_DOT_W + (len(lang) + 1) * CHIP_CHAR_W}" y="{cy}" font-family="{MONO}" font-size="{CHIP_FONT}" fill="{DIM}">{share * 100:.1f}%</text>
+        # Legend fills column-major, so the biggest languages stay on the left.
+        col, row = i % COLS, i // COLS
+        lx = PAD + col * col_w
+        ly = LEGEND_TOP + row * LEGEND_LH
+        pct = f"{share * 100:.1f}%"
+        # The name is left-aligned and the share right-aligned against a rule,
+        # so the eye can run down either edge of the column.
+        legend.append(f'''
+    <g>
+      {fade_in(begin + 0.4, 0.45)}
+      <rect x="{lx}" y="{ly - 9}" width="10" height="10" rx="2.5" fill="{color}"/>
+      <text x="{lx + 20}" y="{ly}" font-family="{MONO}" font-size="13" fill="{FG}">{esc(lang)}</text>
+      <text x="{lx + col_w - 28}" y="{ly}" font-family="{MONO}" font-size="12.5" fill="{DIM}"
+            text-anchor="end">{pct}</text>
+      <line x1="{lx + 26 + text_w(lang, 13)}" y1="{ly - 4}"
+            x2="{lx + col_w - 34 - text_w(pct, 12.5)}" y2="{ly - 4}"
+            stroke="{BORDER}" stroke-width="1"/>
     </g>''')
 
-        x += seg_w
-        chip_x += w + CHIP_GAP
+    done = 0.35 + len(langs) * 0.14 + 0.9
+    sheen_defs, sheen_body = sheen("barSheen", PAD, BAR_Y, bar_w, BAR_H, done, dur=5.5)
 
-    height = chips_y + chip_row * CHIP_ROW_H + 30
-    done = 0.35 + len(langs) * 0.16 + 0.9
-
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH} {height}"
-     width="{WIDTH}" height="{height}" role="img" aria-label="language breakdown by bytes of source">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {CARD_W} {height}"
+     width="{CARD_W}" height="{height}" role="img" aria-label="language breakdown by bytes of source">
   <title>Language breakdown by bytes of source across public repositories</title>
   <defs>
-    {defs_border_gradient("edge", (PURPLE, ACCENT, GREEN))}
-    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
+    {defs_card(CARD_W, height, accent=PURPLE)}
+    {sheen_defs}
     <clipPath id="barClip">
       <rect x="{PAD}" y="{BAR_Y}" width="{bar_w}" height="{BAR_H}" rx="{BAR_H / 2}"/>
     </clipPath>
   </defs>
 
-  <rect x="0.5" y="0.5" width="{WIDTH - 1}" height="{height - 1}" rx="12" fill="{BG}"/>
-  {window_chrome(WIDTH, "~/stack $ cloc --by-lang")}
+  {card_shell(CARD_W, height, accent=PURPLE)}
+  {card_title(CARD_W, "stack", meta="bytes of source · public repos", accent=PURPLE)}
 
-  <rect x="{PAD}" y="{BAR_Y}" width="{bar_w}" height="{BAR_H}" rx="{BAR_H / 2}" fill="{BORDER}" opacity="0">
-    <animate attributeName="opacity" values="0;0.45" begin="0.15s" dur="0.4s" fill="freeze"/>
+  <rect x="{PAD}" y="{BAR_Y}" width="{bar_w}" height="{BAR_H}" rx="{BAR_H / 2}" fill="{BORDER}" opacity="0.5">
+    {appear(0.5, 0.15, 0.4)}
   </rect>
   <g clip-path="url(#barClip)">
     {''.join(segments)}
-    <rect x="-140" y="{BAR_Y}" width="140" height="{BAR_H}" fill="url(#sheen)" pointer-events="none">
-      <animateTransform attributeName="transform" type="translate"
-                        values="0 0; {WIDTH + 160} 0" dur="4.5s"
-                        begin="{done:.2f}s" repeatCount="indefinite"/>
-    </rect>
   </g>
+  {sheen_body}
 
-  {''.join(chips)}
+  {''.join(legend)}
 
-  <rect x="0.5" y="0.5" width="{WIDTH - 1}" height="{height - 1}" rx="12"
-        fill="none" stroke="url(#edge)" stroke-width="1.5" opacity="0.9"/>
+  {card_border(CARD_W, height)}
 </svg>
 '''
 
 
 def bootstrap():
-    """Write the placeholder only when there is no strip at all yet."""
+    """Write the placeholder only when there is no card at all yet."""
     if os.path.exists(OUT_PATH):
         return 0
     with open(OUT_PATH, "w", encoding="utf-8") as f:
@@ -194,21 +181,15 @@ def render_pending():
     is no data yet rather than showing invented proportions.
     """
     height = 150
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH} {height}"
-     width="{WIDTH}" height="{height}" role="img" aria-label="language breakdown pending first run">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {CARD_W} {height}"
+     width="{CARD_W}" height="{height}" role="img" aria-label="language breakdown pending first run">
   <title>Language breakdown — awaiting the first scheduled run</title>
-  <defs>{defs_border_gradient("edge", (PURPLE, ACCENT, GREEN))}</defs>
-  <rect x="0.5" y="0.5" width="{WIDTH - 1}" height="{height - 1}" rx="12" fill="{BG}"/>
-  {window_chrome(WIDTH, "~/stack $ cloc --by-lang")}
-  <text x="{PAD}" y="{BAR_Y + 8}" font-family="{MONO}" font-size="13" fill="{DIM}">
-    awaiting first scheduled run
-  </text>
-  <rect x="{PAD}" y="{BAR_Y + 26}" width="9" height="15" fill="{FG}">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1"
-             dur="1.1s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="0.5" y="0.5" width="{WIDTH - 1}" height="{height - 1}" rx="12"
-        fill="none" stroke="url(#edge)" stroke-width="1.5" opacity="0.9"/>
+  <defs>{defs_card(CARD_W, height, accent=PURPLE)}</defs>
+  {card_shell(CARD_W, height, accent=PURPLE)}
+  {card_title(CARD_W, "stack", meta="bytes of source · public repos", accent=PURPLE)}
+  <text x="{PAD}" y="{BAR_Y + 10}" font-family="{MONO}" font-size="13" fill="{DIM}">awaiting first scheduled run</text>
+  {caret(PAD, BAR_Y + 24, w=8, h=15, fill=PURPLE)}
+  {card_border(CARD_W, height)}
 </svg>
 '''
 
@@ -218,12 +199,12 @@ def main():
     try:
         totals = fetch_languages(username)
     except Exception as exc:
-        print(f"skip: could not fetch languages for {username} ({exc}); keeping existing strip")
+        print(f"skip: could not fetch languages for {username} ({exc}); keeping existing card")
         return bootstrap()
 
     langs = top_slice(totals)
     if not langs:
-        print(f"skip: no language data for {username}; keeping existing strip")
+        print(f"skip: no language data for {username}; keeping existing card")
         return bootstrap()
 
     with open(OUT_PATH, "w", encoding="utf-8") as f:
