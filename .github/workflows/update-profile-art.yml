@@ -1,14 +1,15 @@
 name: Update profile art
 
+# Dormant. The README is plain text now, so nothing renders assets/*.svg and a
+# daily run would only commit churn to main. The generators are kept, and this
+# job still runs on demand, so the cards can be brought back by restoring the
+# schedule below and putting the <img> tags back in README.md.
+#
+#  schedule:
+#    - cron: "17 4 * * *"  # daily, 04:17 UTC
+
 on:
-  schedule:
-    - cron: "17 4 * * *"  # daily, 04:17 UTC
   workflow_dispatch: {}
-  push:
-    branches: [main]
-    paths:
-      - "scripts/**"
-      - ".github/workflows/update-profile-art.yml"
 
 permissions:
   contents: write
