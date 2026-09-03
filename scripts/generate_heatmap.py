@@ -1,6 +1,7 @@
-"""Scrape the public GitHub contributions calendar and re-render it as an
-animated SVG card: cells wash in on a diagonal wave, a sheen sweeps across
-the finished grid on a loop, and the streak numbers count up underneath.
+"""Scrape the public GitHub contributions calendar and re-render it as a card
+sized to match the rest of the profile: cells wash in on a diagonal, a faint
+sheen passes over the finished grid, and the streak numbers sit underneath in
+the same headline style the profile card uses.
 
 No token needed -- github.com/users/<username>/contributions is a public,
 unauthenticated endpoint. Parsed with regexes rather than bs4 to keep the
@@ -14,33 +15,33 @@ import sys
 import requests
 
 from theme import (
-    ACCENT,
-    BG,
     BORDER,
+    CARD_W,
     DIM,
-    FG,
     GREEN,
     LEVEL_COLORS,
     MONO,
     ORANGE,
+    PAD,
     PURPLE,
-    defs_border_gradient,
+    card_shell,
+    card_title,
+    appear,
+    card_border,
+    defs_card,
     esc,
-    window_chrome,
+    fade_in,
+    sheen,
+    stat_block,
 )
 
 USERNAME = "n3xtpy"
 OUT_PATH = "assets/heatmap.svg"
 
-CELL = 11
-GAP = 3
-PITCH = CELL + GAP
-
-PAD_X = 20
-LABEL_W = 30           # room for the Mon/Wed/Fri column
-GRID_TOP = 74          # chrome + month labels
-MONTH_LABEL_Y = 66
-FOOTER_H = 52
+LABEL_W = 34           # gutter for the Mon/Wed/Fri column
+CELL_GAP = 3
+GRID_TOP = 88
+MONTH_LABEL_Y = 78
 
 WEEKDAYS = {1: "Mon", 3: "Wed", 5: "Fri"}
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -153,11 +154,20 @@ def month_labels(weeks):
 def render_svg(days, total=None):
     parsed = parse_days(days)
     weeks = build_weeks(parsed)
-    grid_x = PAD_X + LABEL_W
-    grid_w = len(weeks) * PITCH
-    grid_h = 7 * PITCH
-    width = int(grid_x + grid_w + PAD_X)
-    height = int(GRID_TOP + grid_h + FOOTER_H)
+
+    # The grid is sized to the card, not the other way round: whatever number
+    # of weeks came back, the columns stretch to fill exactly one card width
+    # so this card lines up with the three around it.
+    grid_x = PAD + LABEL_W
+    grid_w = CARD_W - PAD - grid_x
+    pitch = grid_w / max(1, len(weeks))
+    cell = pitch - CELL_GAP
+    grid_h = 7 * pitch - CELL_GAP
+    grid_bottom = GRID_TOP + grid_h
+
+    rule_y = int(grid_bottom + 22)
+    stats_y = rule_y + 36
+    height = stats_y + 40
 
     # The page's own "N contributions in the last year" is authoritative. Without
     # it we can only count days that had *any* activity, so say that instead of
@@ -170,108 +180,89 @@ def render_svg(days, total=None):
 
     # Diagonal wave: delay rises with column and row, so the fill sweeps in
     # from the top-left corner rather than marching column by column.
-    span = 2.4
-    max_coord = max(1, (len(weeks) - 1) * 0.75 + 6)
+    span = 2.0
+    max_coord = max(1, (len(weeks) - 1) * 0.7 + 6)
     cells = []
     for w, week in enumerate(weeks):
-        for d, cell in enumerate(week):
-            if cell is None:
+        for d, entry in enumerate(week):
+            if entry is None:
                 continue  # calendar edge: before the first day or after today
-            date, level = cell
-            x = grid_x + w * PITCH
-            y = GRID_TOP + d * PITCH
+            date, level = entry
+            x = grid_x + w * pitch
+            y = GRID_TOP + d * pitch
             color = LEVEL_COLORS[min(max(level, 0), 4)]
-            delay = (w * 0.75 + d) / max_coord * span
-            title = f"<title>{esc(date.isoformat())} · level {level}</title>"
+            delay = (w * 0.7 + d) / max_coord * span
             cells.append(f'''
-      <rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2.5" fill="{color}" opacity="0">{title}
-        <animate attributeName="opacity" values="0;1" begin="{delay:.2f}s" dur="0.45s" fill="freeze"/>
-        <animate attributeName="rx" values="5.5;2.5" begin="{delay:.2f}s" dur="0.45s" fill="freeze"/>
+      <rect x="{x:.2f}" y="{y:.2f}" width="{cell:.2f}" height="{cell:.2f}" rx="2.5" fill="{color}">
+        <title>{esc(date.isoformat())} · level {level}</title>
+        {appear(1, delay, 0.45)}
       </rect>''')
 
     weekday_elems = "".join(
-        f'<text x="{PAD_X + LABEL_W - 8}" y="{GRID_TOP + d * PITCH + CELL - 1}" fill="{DIM}" '
+        f'<text x="{grid_x - 10}" y="{GRID_TOP + d * pitch + cell - 1:.1f}" fill="{DIM}" '
         f'font-family="{MONO}" font-size="9.5" text-anchor="end">{name}</text>'
         for d, name in WEEKDAYS.items()
     )
 
     month_elems = "".join(
-        f'<text x="{grid_x + w * PITCH}" y="{MONTH_LABEL_Y}" fill="{DIM}" '
-        f'font-family="{MONO}" font-size="10">{name}</text>'
+        f'<text x="{grid_x + w * pitch:.1f}" y="{MONTH_LABEL_Y}" fill="{DIM}" '
+        f'font-family="{MONO}" font-size="10.5">{name}</text>'
         for w, name in month_labels(weeks)
     )
 
-    legend_x = width - PAD_X - 5 * PITCH - 74
-    legend_y = GRID_TOP + grid_h + 26
-    legend = "".join(
-        f'<rect x="{legend_x + 34 + i * PITCH}" y="{legend_y - 9}" width="{CELL}" height="{CELL}" '
+    stats_begin = span + 0.4
+    figures = [
+        (f"{total:,}", total_label, GREEN),
+        (f"{current}", "day streak", ORANGE),
+        (f"{longest}", "longest run", PURPLE),
+    ]
+    stat_elems = "".join(
+        stat_block(PAD + i * 168, stats_y, value, label, color, begin=stats_begin + i * 0.14)
+        for i, (value, label, color) in enumerate(figures)
+    )
+
+    # Legend, right-aligned against the same gutter everything else uses.
+    legend_pitch = 14
+    legend_right = CARD_W - PAD
+    legend_x = legend_right - 40 - 5 * legend_pitch - 44
+    legend_swatches = "".join(
+        f'<rect x="{legend_x + 40 + i * legend_pitch}" y="{stats_y - 9}" width="11" height="11" '
         f'rx="2.5" fill="{c}"/>'
         for i, c in enumerate(LEVEL_COLORS)
     )
 
-    stats_begin = span + 0.5
-    stat_items = [
-        (f"{total:,}", total_label, GREEN),
-        (f"{current}", "day streak", ORANGE),
-        (f"{longest}", "longest", PURPLE),
-    ]
-    stat_elems = []
-    sx = PAD_X + 4
-    for i, (value, label, color) in enumerate(stat_items):
-        stat_elems.append(f'''
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;1" begin="{stats_begin + i * 0.18:.2f}s" dur="0.5s" fill="freeze"/>
-      <text x="{sx}" y="{legend_y}" font-family="{MONO}" font-size="14" font-weight="700" fill="{color}">{esc(value)}</text>
-      <text x="{sx + len(value) * 8.6 + 8}" y="{legend_y}" font-family="{MONO}" font-size="11.5" fill="{DIM}">{esc(label)}</text>
-    </g>''')
-        sx += len(value) * 8.6 + len(label) * 7.0 + 30
+    sheen_defs, sheen_body = sheen(
+        "gridSheen", grid_x, GRID_TOP - 3, grid_w, grid_h + 6, span + 0.3, dur=5.5
+    )
 
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}"
-     width="{width}" height="{height}" role="img" aria-label="contribution heatmap">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {CARD_W} {height}"
+     width="{CARD_W}" height="{height}" role="img" aria-label="contribution heatmap">
   <title>{total:,} {total_label} — {current} day current streak, {longest} longest</title>
   <defs>
-    {defs_border_gradient("edge", (GREEN, ACCENT, PURPLE))}
-    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.20"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <!-- Clipped to the grid alone, so the sweep never washes over the
-         weekday labels sitting in the left gutter. -->
-    <clipPath id="gridClip">
-      <rect x="{grid_x}" y="{GRID_TOP - 4}" width="{grid_w}" height="{grid_h + 8}"/>
-    </clipPath>
+    {defs_card(CARD_W, height, accent=GREEN)}
+    {sheen_defs}
   </defs>
 
-  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="12" fill="{BG}"/>
-  {window_chrome(width, "contributions — last 12 months")}
+  {card_shell(CARD_W, height, accent=GREEN)}
+  {card_title(CARD_W, "contributions", meta="last 12 months", accent=GREEN)}
 
   {month_elems}
   {weekday_elems}
   {''.join(cells)}
+  {sheen_body}
 
-  <!-- Sheen sweeps the finished grid, so the card keeps moving after the fill. -->
-  <g clip-path="url(#gridClip)" pointer-events="none">
-    <rect x="{grid_x - 160}" y="{GRID_TOP - 4}" width="160" height="{grid_h + 8}" fill="url(#sheen)">
-      <animateTransform attributeName="transform" type="translate"
-                        values="0 0; {grid_w + 200} 0" dur="4.5s"
-                        begin="{span + 0.3:.2f}s" repeatCount="indefinite"/>
-    </rect>
+  <line x1="{PAD}" y1="{rule_y}" x2="{CARD_W - PAD}" y2="{rule_y}" stroke="{BORDER}" stroke-width="1"/>
+  {stat_elems}
+
+  <g>
+    {fade_in(stats_begin + 0.4, 0.5)}
+    <text x="{legend_x}" y="{stats_y}" fill="{DIM}" font-family="{MONO}" font-size="11">Less</text>
+    {legend_swatches}
+    <text x="{legend_x + 40 + 5 * legend_pitch + 6}" y="{stats_y}" fill="{DIM}"
+          font-family="{MONO}" font-size="11">More</text>
   </g>
 
-  <line x1="{PAD_X}" y1="{GRID_TOP + grid_h + 12}" x2="{width - PAD_X}" y2="{GRID_TOP + grid_h + 12}"
-        stroke="{BORDER}" stroke-width="1"/>
-  {''.join(stat_elems)}
-
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1" begin="{stats_begin + 0.5:.2f}s" dur="0.5s" fill="freeze"/>
-    <text x="{legend_x}" y="{legend_y}" fill="{DIM}" font-family="{MONO}" font-size="11">Less</text>
-    {legend}
-    <text x="{legend_x + 34 + 5 * PITCH + 6}" y="{legend_y}" fill="{DIM}" font-family="{MONO}" font-size="11">More</text>
-  </g>
-
-  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="12"
-        fill="none" stroke="url(#edge)" stroke-width="1.5" opacity="0.9"/>
+  {card_border(CARD_W, height)}
 </svg>
 '''
 

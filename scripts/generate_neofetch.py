@@ -1,9 +1,12 @@
-"""Generate the animated neofetch-style terminal card for the profile README.
+"""Generate the profile card: a portrait of the logo mark next to live stats.
 
-Real ASCII-art portrait (luminance density ramp over assets/source-logo.png)
-next to a live stats panel, inside terminal chrome: the art wipes in row by
-row, the stats type themselves out, the language bars grow, and a CRT
-scanline layer drifts over the whole thing forever.
+The mark on the left is sampled straight out of assets/source-logo.png and
+re-drawn as a grid of cells, each one's opacity set by the luminance it
+covers. Two reasons to draw cells rather than ASCII characters: the mark is
+essentially a binary shape, so a density ramp over it comes out as uniform
+character mush, and glyph art depends on the viewer having a font with those
+glyphs while rects always render. The cells also echo the contribution grid
+further down the README, so the two cards read as one system.
 
 Stats come from the unauthenticated GitHub REST API -- no token needed, and
 60 requests/hour is plenty for a daily cron. If the API is unreachable or
@@ -17,53 +20,50 @@ from PIL import Image
 
 from theme import (
     ACCENT,
-    BG,
     BORDER,
+    CARD_W,
     CYAN,
     DIM,
+    FAINT,
     FG,
     GREEN,
     MONO,
     ORANGE,
+    PAD,
     PURPLE,
-    cursor,
-    defs_border_gradient,
-    defs_glow,
+    card_border,
+    card_shell,
+    card_title,
+    appear,
+    defs_card,
     esc,
-    grid_pattern,
+    fade_in,
+    grow_w,
     lang_color,
-    scanlines,
-    type_reveal,
-    window_chrome,
+    stat_block,
 )
 
 USERNAME = "n3xtpy"
 OUT_PATH = "assets/neofetch-card.svg"
 SRC_IMAGE = "assets/source-logo.png"
 
-RAMP = " .`:-=+*cs#%@"
-BG_CUTOFF = 40  # luminance below this is background, rendered as a space
+# --- portrait -------------------------------------------------------------
+ART_CELLS = 46          # cells per side; the source is square
+ART_SIZE = 258          # on-screen size of the whole portrait, in px
+ART_GAP = 0.16          # share of a cell pitch left as gutter
+INK_CUTOFF = 0.14       # normalised luminance below this is background
 
-# A monospace cell is about twice as tall as it is wide, so a square source
-# image needs twice as many columns as rows to come out square on screen.
-ART_FONT = 6.0
-ART_CHAR_W = ART_FONT * 0.6
-ART_LINE_H = 7.0
-ART_ROWS = 38
-ART_COLS = ART_ROWS * 2
-ART_X = 30
-ART_W = ART_COLS * ART_CHAR_W
+# --- panel ----------------------------------------------------------------
+ART_X = PAD + 6
+PANEL_X = ART_X + ART_SIZE + 46
+PANEL_W = CARD_W - PAD - PANEL_X
+VALUE_X = PANEL_X + 112   # info values share one column, so they line up
 
-WIDTH = 880  # matches header.svg and langs.svg so the README columns line up
-CHROME_H = 36
-FIELD_X = ART_X + ART_W + 46
-PANEL_W = WIDTH - FIELD_X - 36
-FIELD_LINE_H = 21
-FIELD_TOP = 86
-
-BAR_X_OFFSET = 140
-BAR_W = 200
-BAR_H = 7
+CONTENT_TOP = 74
+INFO_LH = 21
+LANG_LH = 25
+BAR_W = 150
+BAR_H = 6
 
 
 def fetch_stats(username):
@@ -92,7 +92,7 @@ def fetch_stats(username):
         lang = repo.get("language")
         if lang:
             langs[lang] = langs.get(lang, 0) + 1
-    top_langs = sorted(langs.items(), key=lambda kv: kv[1], reverse=True)[:5]
+    top_langs = sorted(langs.items(), key=lambda kv: kv[1], reverse=True)[:4]
 
     return {
         "login": user.get("login", username),
@@ -109,13 +109,13 @@ def fetch_stats(username):
     }
 
 
-def crop_to_ink(im, margin=0.03):
-    """Trim the dead border off the source so the portrait fills its column.
+def crop_to_ink(im, margin=0.02):
+    """Trim the dead border off the source so the mark fills its column.
 
     assets/source-logo.png is a 1022px square whose mark occupies only the
-    middle half; sampled as-is, half the ASCII grid comes out blank.
+    middle half; sampled as-is, half the grid comes out blank.
     """
-    bbox = im.point(lambda p: 255 if p >= BG_CUTOFF else 0).getbbox()
+    bbox = im.point(lambda p: 255 if p >= 40 else 0).getbbox()
     if not bbox:
         return im
     pad = int(max(im.size) * margin)
@@ -128,191 +128,192 @@ def crop_to_ink(im, margin=0.03):
     ))
 
 
-def build_ascii_art(path, cols, rows):
-    im = crop_to_ink(Image.open(path).convert("L")).resize((cols, rows), Image.LANCZOS)
-    ramp_max = len(RAMP) - 1
-    lines = []
-    for y in range(rows):
-        row = []
-        for x in range(cols):
-            lum = im.getpixel((x, y))
-            row.append(" " if lum < BG_CUTOFF else RAMP[int((lum / 255) * ramp_max)])
-        lines.append("".join(row).rstrip())
+def sample_mark(path, cells=ART_CELLS):
+    """[(col, row, intensity)] for every cell the mark actually covers.
 
-    # Drop fully blank bands so the portrait can be centred on its own ink
-    # rather than on the source image's padding.
-    while lines and not lines[0]:
-        lines.pop(0)
-    while lines and not lines[-1]:
-        lines.pop()
-    return lines
+    Luminance is stretched across the range the source actually uses, so the
+    body of the mark comes out solid and only the antialiased edges land
+    part-way down the scale -- which is what gives the portrait soft corners
+    instead of a jagged stencil.
+    """
+    im = crop_to_ink(Image.open(path).convert("L")).resize((cells, cells), Image.LANCZOS)
+    pixels = [im.getpixel((x, y)) for y in range(cells) for x in range(cells)]
+    lo, hi = min(pixels), max(pixels)
+    span = max(1, hi - lo)
+
+    out = []
+    for row in range(cells):
+        for col in range(cells):
+            level = (im.getpixel((col, row)) - lo) / span
+            if level >= INK_CUTOFF:
+                out.append((col, row, level))
+    return out
 
 
-def build_fields(stats):
-    """(label, value, label_color, value_color) rows for the info panel."""
-    host = f"{stats['login']}@github"
+def render_mark(cells, top):
+    """The portrait: cells wash in on a diagonal, then hold."""
+    pitch = ART_SIZE / ART_CELLS
+    size = pitch * (1 - ART_GAP)
+    span = 1.5
+    denom = max(1, (ART_CELLS - 1) * 2)
+
+    parts = []
+    for col, row, level in cells:
+        x = ART_X + col * pitch
+        y = top + row * pitch
+        begin = 0.15 + (col + row) / denom * span
+        # Floor the opacity so faint edge cells still register as edges.
+        opacity = 0.30 + 0.70 * level
+        parts.append(
+            f'<rect x="{x:.2f}" y="{y:.2f}" width="{size:.2f}" height="{size:.2f}" '
+            f'rx="{size / 4:.2f}" fill="url(#markFill)" opacity="{opacity:.2f}">'
+            f"{appear(f'{opacity:.2f}', begin, 0.5)}</rect>"
+        )
+    return "".join(parts), span + 0.5
+
+
+def render_panel(stats, start_t):
+    """Name, headline numbers, key/value rows, language bars. Returns SVG + bottom."""
+    parts = []
+    t = start_t
+
+    # Identity.
+    y = CONTENT_TOP + 30
+    parts.append(f'''<g>
+    {fade_in(t, 0.5, shift=8)}
+    <text x="{PANEL_X}" y="{y}" fill="{FG}" font-family="{MONO}" font-size="25"
+          font-weight="700" letter-spacing="-0.8">{esc(stats["login"])}</text>
+    <text x="{PANEL_X}" y="{y + 21}" fill="{DIM}" font-family="{MONO}" font-size="12.5">github.com/{esc(stats["login"])}</text>
+  </g>''')
+    t += 0.2
+
+    y += 39
+    parts.append(
+        f'<line x1="{PANEL_X}" y1="{y}" x2="{CARD_W - PAD}" y2="{y}" '
+        f'stroke="{BORDER}" stroke-width="1"/>'
+    )
+
+    # Headline numbers -- the one place on the card that gets to be loud.
+    # A zero gets the muted treatment: colour is for numbers worth reading.
+    figures = [
+        (stats["public_repos"], "repos", FG),
+        (stats["stars"], "stars", ORANGE),
+        (stats["followers"], "followers", ACCENT),
+        (stats["forks"], "forks", PURPLE),
+    ]
+    figures = [(f"{n}", label, color if n else FAINT) for n, label, color in figures]
+    step = PANEL_W / len(figures)
+    y += 34
+    for i, (value, label, color) in enumerate(figures):
+        parts.append(stat_block(PANEL_X + i * step, y, value, label, color, begin=t + i * 0.1))
+    t += len(figures) * 0.1 + 0.25
+
+    y += 36
+    parts.append(
+        f'<line x1="{PANEL_X}" y1="{y}" x2="{CARD_W - PAD}" y2="{y}" '
+        f'stroke="{BORDER}" stroke-width="1"/>'
+    )
+
+    # Key/value rows. Values share one x so the column reads as a table.
     rows = [
-        (host, "", ACCENT, FG),
-        ("-" * max(14, len(host)), "", BORDER, FG),
-        ("OS", "GitHub", ACCENT, FG),
-        ("Uptime", f"since {stats['created']}" if stats["created"] else "unknown", ACCENT, FG),
-        ("Shell", "bash + GitHub Actions", ACCENT, FG),
-        ("Repos", str(stats["public_repos"]), ACCENT, FG),
-        ("Stars", f"{stats['stars']}", ACCENT, ORANGE),
-        ("Forks", str(stats["forks"]), ACCENT, FG),
-        # Separate rows: runs of spaces collapse in SVG text without
-        # xml:space="preserve", so "37   Following: 12" would render as one gap.
-        ("Followers", str(stats["followers"]), ACCENT, FG),
-        ("Following", str(stats["following"]), ACCENT, FG),
+        ("os", "GitHub"),
+        ("uptime", f"since {stats['created']}" if stats["created"] else "unknown"),
+        ("shell", "bash + GitHub Actions"),
+        ("following", str(stats["following"])),
     ]
     if stats["location"]:
-        rows.append(("Location", stats["location"], ACCENT, FG))
-    return rows
+        rows.append(("location", stats["location"]))
 
+    y += 28
+    for i, (label, value) in enumerate(rows):
+        ry = y + i * INFO_LH
+        parts.append(f'''<g>
+    {fade_in(t + i * 0.07, 0.4)}
+    <text x="{PANEL_X}" y="{ry}" fill="{DIM}" font-family="{MONO}" font-size="12.5">{esc(label)}</text>
+    <text x="{VALUE_X}" y="{ry}" fill="{FG}" font-family="{MONO}" font-size="12.5">{esc(value)}</text>
+  </g>''')
+    t += len(rows) * 0.07 + 0.3
+    y += (len(rows) - 1) * INFO_LH + 20
 
-def render_art(art_lines, art_top):
-    """One <text> per row, each behind its own left-to-right wipe."""
-    clips, elems = [], []
-    for i, line in enumerate(art_lines):
-        if not line:
-            continue
-        y = art_top + i * ART_LINE_H
-        begin = 0.12 + i * 0.03
-        width = ART_CHAR_W * len(line) + 4
-        clips.append(type_reveal(f"artClip{i}", ART_X, y - ART_FONT, width, ART_LINE_H + 2, begin, 0.22))
-        elems.append(
-            f'<text x="{ART_X}" y="{y:.1f}" fill="url(#artFill)" font-family="{MONO}" '
-            f'font-size="{ART_FONT}" clip-path="url(#artClip{i})" '
-            f'xml:space="preserve">{esc(line)}</text>'
-        )
-    return "".join(clips), "\n  ".join(elems)
-
-
-def render_fields(stats, start_t, field_x=FIELD_X):
-    """Typed key/value rows, then the language bars, then the cursor."""
-    fields = build_fields(stats)
-    clips, elems = [], []
-    t = start_t
-    y = FIELD_TOP
-
-    for i, (label, value, lcolor, vcolor) in enumerate(fields):
-        text = label if not value else f"{label}: {value}"
-        dur = max(0.22, len(text) * 0.022)
-        clips.append(type_reveal(f"fClip{i}", field_x, y - 14, PANEL_W, 20, t, dur))
-        weight = "700" if i == 0 else "400"
-        size = 15 if i == 0 else 13
-        if value:
-            body = (
-                f'<tspan fill="{lcolor}" font-weight="700">{esc(label)}</tspan>'
-                f'<tspan fill="{DIM}">: </tspan>'
-                f'<tspan fill="{vcolor}">{esc(value)}</tspan>'
-            )
-        else:
-            body = f'<tspan fill="{lcolor}">{esc(label)}</tspan>'
-        elems.append(
-            f'<text x="{field_x}" y="{y:.1f}" font-family="{MONO}" font-size="{size}" '
-            f'font-weight="{weight}" clip-path="url(#fClip{i})">{body}</text>'
-        )
-        t += dur * 0.55 + 0.05
-        y += FIELD_LINE_H
-
-    # Language section: a label, then one growing bar per language.
-    y += 10
-    clips.append(type_reveal("langHead", field_x, y - 14, PANEL_W, 20, t, 0.3))
-    elems.append(
-        f'<text x="{field_x}" y="{y:.1f}" font-family="{MONO}" font-size="13" font-weight="700" '
-        f'fill="{ACCENT}" clip-path="url(#langHead)">Stack</text>'
+    parts.append(
+        f'<line x1="{PANEL_X}" y1="{y}" x2="{CARD_W - PAD}" y2="{y}" '
+        f'stroke="{BORDER}" stroke-width="1"/>'
     )
-    t += 0.35
+
+    # Languages, by repo count -- the byte-level breakdown gets its own card.
+    y += 26
+    parts.append(f'''<g>
+    {fade_in(t, 0.4)}
+    <text x="{PANEL_X}" y="{y}" fill="{GREEN}" font-family="{MONO}" font-size="12"
+          font-weight="700" letter-spacing="1.4">STACK</text>
+  </g>''')
+    t += 0.2
 
     top = stats["top_langs"]
+    bar_x = CARD_W - PAD - BAR_W - 44
     if not top:
-        y += FIELD_LINE_H
-        elems.append(
-            f'<text x="{field_x}" y="{y:.1f}" font-family="{MONO}" font-size="13" '
-            f'fill="{DIM}" opacity="0">n/a'
-            f'<animate attributeName="opacity" values="0;1" begin="{t:.2f}s" dur="0.3s" fill="freeze"/>'
-            f"</text>"
+        y += LANG_LH
+        parts.append(
+            f'<g>{fade_in(t, 0.4)}'
+            f'<text x="{PANEL_X}" y="{y}" fill="{DIM}" font-family="{MONO}" font-size="12.5">'
+            f"no public repos yet</text></g>"
         )
     else:
         total = stats["lang_total"]
-        bar_x = field_x + BAR_X_OFFSET
         for i, (lang, count) in enumerate(top):
-            y += 24
+            y += LANG_LH
             pct = count / total
             color = lang_color(lang, i)
-            begin = t + i * 0.13
-            elems.append(f'''
-  <text x="{field_x}" y="{y + 5:.1f}" font-family="{MONO}" font-size="12.5" fill="{FG}" opacity="0">{esc(lang)}
-    <animate attributeName="opacity" values="0;1" begin="{begin:.2f}s" dur="0.35s" fill="freeze"/>
-  </text>
-  <rect x="{bar_x}" y="{y - 4:.1f}" width="{BAR_W}" height="{BAR_H}" rx="{BAR_H / 2}" fill="{BORDER}" opacity="0">
-    <animate attributeName="opacity" values="0;0.55" begin="{begin:.2f}s" dur="0.35s" fill="freeze"/>
-  </rect>
-  <rect x="{bar_x}" y="{y - 4:.1f}" width="0" height="{BAR_H}" rx="{BAR_H / 2}" fill="{color}">
-    <animate attributeName="width" from="0" to="{BAR_W * pct:.1f}" begin="{begin:.2f}s"
-             dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-  </rect>
-  <text x="{bar_x + BAR_W + 12}" y="{y + 4:.1f}" font-family="{MONO}" font-size="11.5" fill="{DIM}" opacity="0">{pct * 100:.0f}%
-    <animate attributeName="opacity" values="0;1" begin="{begin + 0.5:.2f}s" dur="0.35s" fill="freeze"/>
-  </text>''')
-        t += len(top) * 0.13 + 0.9
+            begin = t + i * 0.1
+            parts.append(f'''
+  <g>
+    <g>{fade_in(begin, 0.4)}
+      <text x="{PANEL_X}" y="{y + 5}" fill="{FG}" font-family="{MONO}" font-size="12.5">{esc(lang)}</text>
+      <text x="{CARD_W - PAD}" y="{y + 5}" fill="{DIM}" font-family="{MONO}" font-size="11.5"
+            text-anchor="end">{pct * 100:.0f}%</text>
+      <rect x="{bar_x}" y="{y - 3}" width="{BAR_W}" height="{BAR_H}" rx="{BAR_H / 2}"
+            fill="{BORDER}"/>
+    </g>
+    <rect x="{bar_x}" y="{y - 3}" width="{BAR_W * pct:.2f}" height="{BAR_H}" rx="{BAR_H / 2}" fill="{color}">
+      {grow_w(BAR_W * pct, begin + 0.15)}
+    </rect>
+  </g>''')
+        t += len(top) * 0.1 + 0.85
 
-    y += 26
-    elems.append(cursor(field_x, y - 12, begin=t))
-    return "".join(clips), "\n  ".join(elems), y + 12
+    return "\n  ".join(parts), y + 16
 
 
-def render_svg(stats, art_lines):
-    # The panel drives the card's height, so lay it out first, then centre the
-    # portrait against whatever vertical space that produced.
-    #
-    # Start the panel typing while the portrait is still wiping in, so the two
-    # halves read as one boot sequence rather than two queued animations.
-    art_done = 0.12 + len(art_lines) * 0.03 + 0.22
-    field_clips, field_elems, field_bottom = render_fields(stats, art_done * 0.45)
+def render_svg(stats, cells):
+    panel, panel_bottom = render_panel(stats, 0.35)
 
-    art_h = len(art_lines) * ART_LINE_H
-    height = int(max(field_bottom, CHROME_H + art_h + 48) + 10)
-    width = WIDTH
+    height = int(max(panel_bottom + 12, CONTENT_TOP + ART_SIZE + 30))
+    art_top = CONTENT_TOP + (height - CONTENT_TOP - ART_SIZE) / 2 - 6
+    mark, _ = render_mark(cells, art_top)
 
-    art_top = CHROME_H + (height - CHROME_H - art_h) / 2 + ART_FONT
-    art_clips, art_elems = render_art(art_lines, art_top)
-
-    scan_defs, scan_body = scanlines(width, height, opacity=0.05)
-    title = f"{stats['login']}@github: ~ $ neofetch"
-
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}"
-     width="{width}" height="{height}" role="img" aria-label="neofetch card for {esc(stats['login'])}">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {CARD_W} {height}"
+     width="{CARD_W}" height="{height}" role="img" aria-label="profile card for {esc(stats['login'])}">
   <title>{esc(stats['login'])} — {stats['public_repos']} repos, {stats['stars']} stars, {stats['followers']} followers</title>
   <defs>
-    {defs_border_gradient("edge", (ACCENT, PURPLE, GREEN))}
-    {defs_glow("artglow", 1.6)}
-    {grid_pattern("grid", 24)}
-    {scan_defs}
-    <linearGradient id="artFill" x1="0" y1="0" x2="0.4" y2="1">
+    {defs_card(CARD_W, height)}
+    <!-- userSpaceOnUse, not the default: an objectBoundingBox gradient would
+         restart inside every 5px cell and the whole mark would come out flat. -->
+    <linearGradient id="markFill" gradientUnits="userSpaceOnUse"
+                    x1="{ART_X}" y1="{art_top}"
+                    x2="{ART_X + ART_SIZE}" y2="{art_top + ART_SIZE}">
       <stop offset="0%" stop-color="{CYAN}"/>
-      <stop offset="50%" stop-color="{ACCENT}"/>
+      <stop offset="55%" stop-color="{ACCENT}"/>
       <stop offset="100%" stop-color="{PURPLE}"/>
-      <animate attributeName="x1" values="0;0.5;0" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
-    {art_clips}
-    {field_clips}
   </defs>
 
-  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="12" fill="{BG}"/>
-  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="12" fill="url(#grid)"/>
-  {window_chrome(width, title)}
+  {card_shell(CARD_W, height)}
+  {card_title(CARD_W, "profile", meta=f"~ $ neofetch {esc(stats['login'])}")}
 
-  <g filter="url(#artglow)">
-  {art_elems}
-  </g>
+  <g>{mark}</g>
 
-  {field_elems}
+  {panel}
 
-  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="12"
-        fill="none" stroke="url(#edge)" stroke-width="1.5" opacity="0.9"/>
-  {scan_body}
+  {card_border(CARD_W, height)}
 </svg>
 '''
 
@@ -325,10 +326,10 @@ def main():
         print(f"skip: could not fetch stats for {username} ({exc}); keeping existing card")
         return 0
 
-    art_lines = build_ascii_art(SRC_IMAGE, ART_COLS, ART_ROWS)
+    cells = sample_mark(SRC_IMAGE)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
-        f.write(render_svg(stats, art_lines))
-    print(f"wrote {OUT_PATH}")
+        f.write(render_svg(stats, cells))
+    print(f"wrote {OUT_PATH} ({len(cells)} mark cells)")
     return 0
 
 
