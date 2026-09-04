@@ -11,7 +11,7 @@ I build private platforms for communities, and the pipelines that keep them runn
 <br>
 
 [![Website](https://img.shields.io/badge/Website-n3xt--agency.com-1D9470?style=for-the-badge&logoColor=white)](https://n3xt-agency.com)
-[![Contact](https://img.shields.io/badge/Contact-leon.holetz@n3xt--agency.com-1D9470?style=for-the-badge&logoColor=white)](mailto:contact@n3xt-agency.com)
+[![Contact](https://img.shields.io/badge/Contact-leon.holetz@n3xt--agency.com-1D9470?style=for-the-badge&logoColor=white)](mailto:leon.holetz@n3xt-agency.com)
 
 <br>
 
@@ -146,7 +146,7 @@ me directly.
 <div align="center">
 <br>
 
-[![Get in touch](https://img.shields.io/badge/Get_in_touch-leon.holetz@n3xt--agency.com-1D9470?style=for-the-badge&logoColor=white)](mailto:contact@n3xt-agency.com)
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-leon.holetz@n3xt--agency.com-1D9470?style=for-the-badge&logoColor=white)](mailto:leon.holetz@n3xt-agency.com)
 [![Visit website](https://img.shields.io/badge/Visit-n3xt--agency.com-24292F?style=for-the-badge&logoColor=white)](https://n3xt-agency.com)
 
 </div>
@@ -158,6 +158,6 @@ me directly.
 <div align="center">
 
 **N3XT Agency**<br>
-[n3xt-agency.com](https://n3xt-agency.com) · [contact@n3xt-agency.com](mailto:contact@n3xt-agency.com)
+[n3xt-agency.com](https://n3xt-agency.com) · [leon.holetz@n3xt-agency.com](mailto:leon.holetz@n3xt-agency.com)
 
 </div>
